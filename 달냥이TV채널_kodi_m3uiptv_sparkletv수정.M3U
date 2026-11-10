@@ -9,422 +9,422 @@ https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8
 http://203.251.91.227:9999/hls/otv-eorn-xlqltl-dbekftks-ext-002-334/index.m3u8
 #EXTINF:-1 tvg-chno="5" tvg-id="JIBS TV(SBS제주).kr" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/JIBS%20제주방송.svg",JIBS TV(SBS제주)
 http://123.140.197.22/stream/1/play.m3u8
-#EXTINF:-1 tvg-chno="4" tvg-id="MBCTV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Munhwa_Broadcasting_Corporation.svg/500px-Munhwa_Broadcasting_Corporation.svg.png",MBC TV
+#EXTINF:-1 tvg-chno="6" tvg-id="MBCTV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Munhwa_Broadcasting_Corporation.svg/500px-Munhwa_Broadcasting_Corporation.svg.png",MBC TV
 http://koreatv.dothome.co.kr/mbc.php
-#EXTINF:-1 tvg-chno="5" tvg-name="MBCNET" tvg-logo="https://backup.760515.xyz/logo/MBCNET.png",MBCNET
+#EXTINF:-1 tvg-chno="7" tvg-name="MBCNET" tvg-logo="https://backup.760515.xyz/logo/MBCNET.png",MBCNET
 http://koreatv.dothome.co.kr/mbcnet.php?_lsu_sa_=65812E18F38135D4744115503F916844250D3B855404C2EB31305Ba596193A7610a013C13AA2504710C33C3154bC51E78230E7B2276163CDD6B09A011B5BFEEEC50B0031FFA812B936F98056E172B0FE098C1D948A1A5C776385C66CED6C6D3B6A5EF0EBFB604847D2B031AF606378346CFD2B4B5B09682F16A79FB56008B7B9&v=3
-#EXTINF:-1 tvg-chno="6" tvg-id="EBS1TV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/EBS_1TV_Logo.svg/500px-EBS_1TV_Logo.svg.png",EBS 1
+#EXTINF:-1 tvg-chno="8" tvg-id="EBS1TV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/EBS_1TV_Logo.svg/500px-EBS_1TV_Logo.svg.png",EBS 1
 https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-chno="7" tvg-id="EBS2TV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/EBS_2TV_Logo.svg/500px-EBS_2TV_Logo.svg.png",EBS 2
+#EXTINF:-1 tvg-chno="9" tvg-id="EBS2TV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/EBS_2TV_Logo.svg/500px-EBS_2TV_Logo.svg.png",EBS 2
 https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-chno="8" tvg-id="EBSPlus1.kr" tvg-logo="https://i.imgur.com/ImUHRG2.png",EBS Plus 1
+#EXTINF:-1 tvg-chno="10" tvg-id="EBSPlus1.kr" tvg-logo="https://i.imgur.com/ImUHRG2.png",EBS Plus 1
 https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-chno="9" tvg-id="EBSPlus2.kr" tvg-logo="https://i.imgur.com/mgFRZFq.png",EBS Plus 2
+#EXTINF:-1 tvg-chno="11" tvg-id="EBSPlus2.kr" tvg-logo="https://i.imgur.com/mgFRZFq.png",EBS Plus 2
 https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-chno="10" tvg-id="EBSEnglish.kr" tvg-logo="https://i.imgur.com/qceaIf7.png",EBS English
+#EXTINF:-1 tvg-chno="12" tvg-id="EBSEnglish.kr" tvg-logo="https://i.imgur.com/qceaIf7.png",EBS English
 https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-chno="11" tvg-id="EBSKids.kr" tvg-logo="https://i.imgur.com/62oo8Bx.png",EBS Kids
+#EXTINF:-1 tvg-chno="13" tvg-id="EBSKids.kr" tvg-logo="https://i.imgur.com/62oo8Bx.png",EBS Kids
 https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-chno="12" tvg-id="KBSLife.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/KBS_Life.svg/500px-KBS_Life.svg.png",KBS Life
+#EXTINF:-1 tvg-chno="14" tvg-id="KBSLife.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/KBS_Life.svg/500px-KBS_Life.svg.png",KBS Life
 http://koreatv.dothome.co.kr/kbslife.php?id=7
-#EXTINF:-1 tvg-chno="13" tvg-id="KBSStory.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/KBS_Story.svg/500px-KBS_Story.svg.png",KBS Story
+#EXTINF:-1 tvg-chno="15" tvg-id="KBSStory.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/KBS_Story.svg/500px-KBS_Story.svg.png",KBS Story
 http://koreatv.dothome.co.kr/kbsstory.php?id=8
-#EXTINF:-1 tvg-chno="14" tvg-id="KBSWorld.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/500px-KBS_World_%282009%29.svg.png",KBS World
+#EXTINF:-1 tvg-chno="16" tvg-id="KBSWorld.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/500px-KBS_World_%282009%29.svg.png",KBS World
 http://koreatv.dothome.co.kr/kbsworld.php?id=3
-#EXTINF:-1 tvg-chno="15" tvg-id="KBSNewsD.kr" tvg-logo="https://i.imgur.com/4qKgvHN.png",KBS News D
+#EXTINF:-1 tvg-chno="17" tvg-id="KBSNewsD.kr" tvg-logo="https://i.imgur.com/4qKgvHN.png",KBS News D
 http://koreatv.dothome.co.kr/kbsnews.php
-#EXTINF:-1 tvg-chno="16" tvg-id="KBSKids.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/KBS_kids.svg/500px-KBS_kids.svg.png",KBS Kids
+#EXTINF:-1 tvg-chno="18" tvg-id="KBSKids.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/KBS_kids.svg/500px-KBS_kids.svg.png",KBS Kids
 http://koreatv.dothome.co.kr/kbskids.php?id=9
-#EXTINF:-1 tvg-chno="17" tvg-name="YTN" tvg-logo="https://pjytv.760515.xyz/logo/YTN.png",YTN
+#EXTINF:-1 tvg-chno="19" tvg-name="YTN" tvg-logo="https://pjytv.760515.xyz/logo/YTN.png",YTN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 https://backup.760515.xyz/playlist/YTN-playlist.m3u8
-#EXTINF:-1 tvg-chno="18" tvg-name="YTN2" tvg-logo="https://pjytv.760515.xyz/logo/YTN2.png",YTN2
+#EXTINF:-1 tvg-chno="20" tvg-name="YTN2" tvg-logo="https://pjytv.760515.xyz/logo/YTN2.png",YTN2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 https://backup.760515.xyz/playlist/YTN2-playlist.m3u8
-#EXTINF:-1 tvg-chno="19" tvg-name="YTN사이언스" tvg-logo="https://pjytv.760515.xyz/logo/YTN사이언스.png",YTN사이언스
+#EXTINF:-1 tvg-chno="21" tvg-name="YTN사이언스" tvg-logo="https://pjytv.760515.xyz/logo/YTN사이언스.png",YTN사이언스
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 https://backup.760515.xyz/playlist/YTN%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4-playlist.m3u8
-#EXTINF:-1 tvg-chno="20" tvg-name="연합뉴스TV" tvg-logo="https://pjytv.760515.xyz/logo/연합뉴스TV.png",연합뉴스TV
+#EXTINF:-1 tvg-chno="22" tvg-name="연합뉴스TV" tvg-logo="https://pjytv.760515.xyz/logo/연합뉴스TV.png",연합뉴스TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 https://backup.760515.xyz/playlist/%EC%97%B0%ED%95%A9%EB%89%B4%EC%8A%A4TV-playlist.m3u8
-#EXTINF:-1 tvg-chno="21" tvg-name="JTBC" tvg-logo="https://pjytv.760515.xyz/logo/JTBC.png",JTBC
+#EXTINF:-1 tvg-chno="23" tvg-name="JTBC" tvg-logo="https://pjytv.760515.xyz/logo/JTBC.png",JTBC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 https://backup.760515.xyz/playlist/JTBC-playlist.m3u8
-#EXTINF:-1 tvg-chno="22" tvg-name="JTBC2" tvg-logo="https://pjytv.760515.xyz/logo/JTBC2.png",JTBC2
+#EXTINF:-1 tvg-chno="24" tvg-name="JTBC2" tvg-logo="https://pjytv.760515.xyz/logo/JTBC2.png",JTBC2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 https://backup.760515.xyz/playlist/JTBC2-playlist.m3u8
-#EXTINF:-1 tvg-chno="23" tvg-name="JTBC4" tvg-logo="https://pjytv.760515.xyz/logo/JTBC4.png",JTBC4
+#EXTINF:-1 tvg-chno="25" tvg-name="JTBC4" tvg-logo="https://pjytv.760515.xyz/logo/JTBC4.png",JTBC4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 https://backup.760515.xyz/playlist/JTBC4-playlist.m3u8
-#EXTINF:-1 tvg-chno="24" tvg-name="tvN" tvg-logo="https://pjytv.760515.xyz/logo/tvN.png",tvN
+#EXTINF:-1 tvg-chno="26" tvg-name="tvN" tvg-logo="https://pjytv.760515.xyz/logo/tvN.png",tvN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 https://backup.760515.xyz/playlist/tvN-playlist.m3u8
-#EXTINF:-1 tvg-chno="25" tvg-name="tvN 쇼" tvg-logo="https://pjytv.760515.xyz/logo/tvNSHOW.png",tvN 쇼
+#EXTINF:-1 tvg-chno="27" tvg-name="tvN 쇼" tvg-logo="https://pjytv.760515.xyz/logo/tvNSHOW.png",tvN 쇼
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 https://backup.760515.xyz/playlist/tvN%20SHOW-playlist.m3u8
-#EXTINF:-1 tvg-chno="26" tvg-name="tvN 드라마" tvg-logo="https://pjytv.760515.xyz/logo/tvNDRAMA.png",tvN 드라마
+#EXTINF:-1 tvg-chno="28" tvg-name="tvN 드라마" tvg-logo="https://pjytv.760515.xyz/logo/tvNDRAMA.png",tvN 드라마
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 https://backup.760515.xyz/playlist/tvN%20DRAMA-playlist.m3u8
-#EXTINF:-1 tvg-chno="27" tvg-name="tvN 스토리" tvg-logo="https://pjytv.760515.xyz/logo/tvN STORY.png",tvN 스토리
+#EXTINF:-1 tvg-chno="29" tvg-name="tvN 스토리" tvg-logo="https://pjytv.760515.xyz/logo/tvN STORY.png",tvN 스토리
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 https://backup.760515.xyz/playlist/tvN%20STORY-playlist.m3u8
-#EXTINF:-1 tvg-chno="28" tvg-name="채널A" tvg-logo="https://pjytv.760515.xyz/logo/채널A.png",채널A
+#EXTINF:-1 tvg-chno="30" tvg-name="채널A" tvg-logo="https://pjytv.760515.xyz/logo/채널A.png",채널A
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 https://backup.760515.xyz/playlist/%EC%B1%84%EB%84%90A-playlist.m3u8
-#EXTINF:-1 tvg-chno="29" tvg-name="채널A플러스" tvg-logo="https://pjytv.760515.xyz/logo/채널A플러스.png",채널A플러스
+#EXTINF:-1 tvg-chno="31" tvg-name="채널A플러스" tvg-logo="https://pjytv.760515.xyz/logo/채널A플러스.png",채널A플러스
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 https://backup.760515.xyz/playlist/%EC%B1%84%EB%84%90A%ED%94%8C%EB%9F%AC%EC%8A%A4-playlist.m3u8
-#EXTINF:-1 tvg-chno="30" tvg-name="TV 조선" tvg-logo="https://pjytv.760515.xyz/logo/TV CHOSUN.png",TV 조선
+#EXTINF:-1 tvg-chno="32" tvg-name="TV 조선" tvg-logo="https://pjytv.760515.xyz/logo/TV CHOSUN.png",TV 조선
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 https://backup.760515.xyz/playlist/TV%20CHOSUN-playlist.m3u8
-#EXTINF:-1 tvg-chno="31" tvg-name="TV 조선 2" tvg-logo="https://pjytv.760515.xyz/logo/TV CHOSUN 2.png",TV 조선 2
+#EXTINF:-1 tvg-chno="33" tvg-name="TV 조선 2" tvg-logo="https://pjytv.760515.xyz/logo/TV CHOSUN 2.png",TV 조선 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 https://backup.760515.xyz/playlist/TV%20CHOSUN%202-playlist.m3u8
-#EXTINF:-1 tvg-chno="32" tvg-name="엠넷" tvg-logo="https://pjytv.760515.xyz/logo/Mnet.png",엠넷
+#EXTINF:-1 tvg-chno="34" tvg-name="엠넷" tvg-logo="https://pjytv.760515.xyz/logo/Mnet.png",엠넷
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 https://backup.760515.xyz/playlist/Mnet-playlist.m3u8
-#EXTINF:-1 tvg-chno="33" tvg-name="MBN" tvg-logo="https://pjytv.760515.xyz/logo/MBN.png",MBN
+#EXTINF:-1 tvg-chno="35" tvg-name="MBN" tvg-logo="https://pjytv.760515.xyz/logo/MBN.png",MBN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 https://backup.760515.xyz/playlist/MBN-playlist.m3u8
-#EXTINF:-1 tvg-chno="34" tvg-name="MBN 플러스" tvg-logo="https://pjytv.760515.xyz/logo/MBN 플러스.png",MBN 플러스
+#EXTINF:-1 tvg-chno="36" tvg-name="MBN 플러스" tvg-logo="https://pjytv.760515.xyz/logo/MBN 플러스.png",MBN 플러스
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 https://backup.760515.xyz/playlist/MBN%20%ED%94%8C%EB%9F%AC%EC%8A%A4-playlist.m3u8
-#EXTINF:-1 tvg-chno="35" tvg-name="평생" tvg-logo="https://pjytv.760515.xyz/logo/LIFETIME.png",평생
+#EXTINF:-1 tvg-chno="37" tvg-name="평생" tvg-logo="https://pjytv.760515.xyz/logo/LIFETIME.png",평생
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 https://backup.760515.xyz/playlist/LIFETIME-playlist.m3u8
-#EXTINF:-1 tvg-chno="36" tvg-name="중화TV" tvg-logo="https://pjytv.760515.xyz/logo/중화TV.png",중화TV
+#EXTINF:-1 tvg-chno="38" tvg-name="중화TV" tvg-logo="https://pjytv.760515.xyz/logo/중화TV.png",중화TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 https://backup.760515.xyz/playlist/%EC%A4%91%ED%99%94TV-playlist.m3u8
-#EXTINF:-1 tvg-chno="37" tvg-name="히스토리" tvg-logo="https://pjytv.760515.xyz/logo/히스토리.png",히스토리
+#EXTINF:-1 tvg-chno="39" tvg-name="히스토리" tvg-logo="https://pjytv.760515.xyz/logo/히스토리.png",히스토리
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 https://backup.760515.xyz/playlist/%ED%9E%88%EC%8A%A4%ED%86%A0%EB%A6%AC-playlist.m3u8
-#EXTINF:-1 tvg-chno="38" tvg-name="국회방송(NATV)" tvg-logo="https://pjytv.760515.xyz/logo/국회방송(NATV).png",국회방송(NATV)
+#EXTINF:-1 tvg-chno="40" tvg-name="국회방송(NATV)" tvg-logo="https://pjytv.760515.xyz/logo/국회방송(NATV).png",국회방송(NATV)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 https://backup.760515.xyz/playlist/%EA%B5%AD%ED%9A%8C%EB%B0%A9%EC%86%A1(NATV)-playlist.m3u8
-#EXTINF:-1 tvg-chno="39" tvg-name="ANIBOX" tvg-logo="https://pjytv.760515.xyz/logo/ANIBOX.png",ANIBOX
+#EXTINF:-1 tvg-chno="41" tvg-name="ANIBOX" tvg-logo="https://pjytv.760515.xyz/logo/ANIBOX.png",ANIBOX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 https://backup.760515.xyz/playlist/ANIBOX-playlist.m3u8
-#EXTINF:-1 tvg-chno="40" tvg-name="애니맥스" tvg-logo="https://pjytv.760515.xyz/logo/애니맥스.png",애니맥스
+#EXTINF:-1 tvg-chno="42" tvg-name="애니맥스" tvg-logo="https://pjytv.760515.xyz/logo/애니맥스.png",애니맥스
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 https://backup.760515.xyz/playlist/%EC%95%A0%EB%8B%88%EB%A7%A5%EC%8A%A4-playlist.m3u8
-#EXTINF:-1 tvg-chno="41" tvg-name="투니버스" tvg-logo="https://pjytv.760515.xyz/logo/투니버스.png",투니버스
+#EXTINF:-1 tvg-chno="43" tvg-name="투니버스" tvg-logo="https://pjytv.760515.xyz/logo/투니버스.png",투니버스
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 https://backup.760515.xyz/playlist/%ED%88%AC%EB%8B%88%EB%B2%84%EC%8A%A4-playlist.m3u8
-#EXTINF:-1 tvg-chno="42" tvg-name="아리랑TV",아리랑TV
+#EXTINF:-1 tvg-chno="44" tvg-name="아리랑TV",아리랑TV
 https://epg.pw/stream/f71b00bffdc25476502479870351e7f801879a9b7bbce6bc77332b7f8b0dbd7a.m3u8
-#EXTINF:-1 tvg-chno="43" tvg-name="TBSTV",TBSTV
+#EXTINF:-1 tvg-chno="45" tvg-name="TBSTV",TBSTV
 https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
-#EXTINF:-1 tvg-chno="44" tvg-name="ABN" tvg-logo="https://backup.760515.xyz/logo/ABN.png",ABN
+#EXTINF:-1 tvg-chno="46" tvg-name="ABN" tvg-logo="https://backup.760515.xyz/logo/ABN.png",ABN
 https://vod2.abn.co.kr/IPHONE/abn.m3u8
-#EXTINF:-1 tvg-chno="45" tvg-name="국민방송" tvg-logo="https://backup.760515.xyz/logo/국민방송.png",국민방송
+#EXTINF:-1 tvg-chno="47" tvg-name="국민방송" tvg-logo="https://backup.760515.xyz/logo/국민방송.png",국민방송
 https://mlive.ktv.go.kr/live/klive_m.stream/playlist.m3u8
-#EXTINF:-1 tvg-chno="46" tvg-name="방송대학TV" tvg-logo="https://backup.760515.xyz/logo/방송대학TV.png",방송대학TV
+#EXTINF:-1 tvg-chno="48" tvg-name="방송대학TV" tvg-logo="https://backup.760515.xyz/logo/방송대학TV.png",방송대학TV
 https://live.knou.ac.kr/knou1/live1/playlist.m3u8
-#EXTINF:-1 tvg-chno="47" tvg-name="한국영화1",한국영화1
+#EXTINF:-1 tvg-chno="49" tvg-name="한국영화1",한국영화1
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
-#EXTINF:-1 tvg-chno="48" tvg-name="한국영화2",한국영화2
+#EXTINF:-1 tvg-chno="50" tvg-name="한국영화2",한국영화2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
-#EXTINF:-1 tvg-chno="49" tvg-name="한국영화3",한국영화3
+#EXTINF:-1 tvg-chno="51" tvg-name="한국영화3",한국영화3
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=742
-#EXTINF:-1 channel-id="KRBC3200001VC" tvg-id="KRBC3200001VC" tvg-chno="50" tvg-name="Animax 요리왕 비룡 더 마스터" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200001VC_20260422T013525SQUARE.png",Animax 요리왕 비룡 더 마스터
+#EXTINF:-1 channel-id="KRBC3200001VC" tvg-id="KRBC3200001VC" tvg-chno="52" tvg-name="Animax 요리왕 비룡 더 마스터" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200001VC_20260422T013525SQUARE.png",Animax 요리왕 비룡 더 마스터
 https://jmp2.uk/stvp-KRBC3200001VC
-#EXTINF:-1 channel-id="KRBB500044GP" tvg-id="KRBB500044GP" tvg-chno="51" tvg-name="Bloomberg Originals" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB500044GP_20260422T012617SQUARE.png",Bloomberg Originals
+#EXTINF:-1 channel-id="KRBB500044GP" tvg-id="KRBB500044GP" tvg-chno="53" tvg-name="Bloomberg Originals" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB500044GP_20260422T012617SQUARE.png",Bloomberg Originals
 https://jmp2.uk/stvp-KRBB500044GP
-#EXTINF:-1 channel-id="KRBB500039Y5" tvg-id="KRBB500039Y5" tvg-chno="52" tvg-name="Bloomberg TV+ UHD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB500039Y5_20260422T012620SQUARE.png",Bloomberg TV+ UHD
+#EXTINF:-1 channel-id="KRBB500039Y5" tvg-id="KRBB500039Y5" tvg-chno="54" tvg-name="Bloomberg TV+ UHD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB500039Y5_20260422T012620SQUARE.png",Bloomberg TV+ UHD
 https://jmp2.uk/stvp-KRBB500039Y5
-#EXTINF:-1 channel-id="KRBC32000126M" tvg-id="KRBC32000126M" tvg-chno="53" tvg-name="ch.핑크퐁" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC32000126M_20260513T012855SQUARE.png",ch.핑크퐁
+#EXTINF:-1 channel-id="KRBC32000126M" tvg-id="KRBC32000126M" tvg-chno="55" tvg-name="ch.핑크퐁" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC32000126M_20260513T012855SQUARE.png",ch.핑크퐁
 https://jmp2.uk/stvp-KRBC32000126M
-#EXTINF:-1 channel-id="KRBC32000191N" tvg-id="KRBC32000191N" tvg-chno="54" tvg-name="CJ ENM MOVIE" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC32000191N_20260623T003139SQUARE.png",CJ ENM MOVIE
+#EXTINF:-1 channel-id="KRBC32000191N" tvg-id="KRBC32000191N" tvg-chno="56" tvg-name="CJ ENM MOVIE" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC32000191N_20260623T003139SQUARE.png",CJ ENM MOVIE
 https://jmp2.uk/stvp-KRBC32000191N
-#EXTINF:-1 channel-id="KRBC40000010R" tvg-id="KRBC40000010R" tvg-chno="55" tvg-name="EBS 극한 직업" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC40000010R_20261006T042815SQUARE.png",EBS 극한 직업
+#EXTINF:-1 channel-id="KRBC40000010R" tvg-id="KRBC40000010R" tvg-chno="57" tvg-name="EBS 극한 직업" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC40000010R_20261006T042815SQUARE.png",EBS 극한 직업
 https://jmp2.uk/stvp-KRBC40000010R
-#EXTINF:-1 channel-id="KR410000247" tvg-id="KR410000247" tvg-chno="56" tvg-name="essential; by Bugs" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR410000247_20260812T044626SQUARE.png",essential; by Bugs
+#EXTINF:-1 channel-id="KR410000247" tvg-id="KR410000247" tvg-chno="58" tvg-name="essential; by Bugs" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR410000247_20260812T044626SQUARE.png",essential; by Bugs
 https://jmp2.uk/stvp-KR410000247
-#EXTINF:-1 channel-id="KRBC4100008Z6" tvg-id="KRBC4100008Z6" tvg-chno="57" tvg-name="E채널 토요일은 밥이 좋아" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4100008Z6_20260422T013531SQUARE.png",E채널 토요일은 밥이 좋아
+#EXTINF:-1 channel-id="KRBC4100008Z6" tvg-id="KRBC4100008Z6" tvg-chno="59" tvg-name="E채널 토요일은 밥이 좋아" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4100008Z6_20260422T013531SQUARE.png",E채널 토요일은 밥이 좋아
 https://jmp2.uk/stvp-KRBC4100008Z6
-#EXTINF:-1 channel-id="KR2900002NO" tvg-id="KR2900002NO" tvg-chno="58" tvg-name="FIFA+" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR2900002NO_20260422T013533SQUARE.png",FIFA+
+#EXTINF:-1 channel-id="KR2900002NO" tvg-id="KR2900002NO" tvg-chno="60" tvg-name="FIFA+" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR2900002NO_20260422T013533SQUARE.png",FIFA+
 https://jmp2.uk/stvp-KR2900002NO
-#EXTINF:-1 channel-id="KRBD44000025L" tvg-id="KRBD44000025L" tvg-chno="59" tvg-name="Fireplace 4K" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD44000025L_20260422T013535SQUARE.png",Fireplace 4K
+#EXTINF:-1 channel-id="KRBD44000025L" tvg-id="KRBD44000025L" tvg-chno="61" tvg-name="Fireplace 4K" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD44000025L_20260422T013535SQUARE.png",Fireplace 4K
 https://jmp2.uk/stvp-KRBD44000025L
-#EXTINF:-1 channel-id="KR12000017G" tvg-id="KR12000017G" tvg-chno="60" tvg-name="Genie Movie" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR12000017G_20260623T003145SQUARE.png",Genie Movie
+#EXTINF:-1 channel-id="KR12000017G" tvg-id="KR12000017G" tvg-chno="62" tvg-name="Genie Movie" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR12000017G_20260623T003145SQUARE.png",Genie Movie
 https://jmp2.uk/stvp-KR12000017G
-#EXTINF:-1 channel-id="KR2000012AI" tvg-id="KR2000012AI" tvg-chno="61" tvg-name="Genie 어워드 특집" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR2000012AI_20261020T053321SQUARE.png",Genie 어워드 특집
+#EXTINF:-1 channel-id="KR2000012AI" tvg-id="KR2000012AI" tvg-chno="63" tvg-name="Genie 어워드 특집" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR2000012AI_20261020T053321SQUARE.png",Genie 어워드 특집
 https://jmp2.uk/stvp-KR2000012AI
-#EXTINF:-1 channel-id="KRBC4000002ME" tvg-id="KRBC4000002ME" tvg-chno="62" tvg-name="iHQ 돈쭐내러 왔습니다" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4000002ME_20260422T013925SQUARE.png",iHQ 돈쭐내러 왔습니다
+#EXTINF:-1 channel-id="KRBC4000002ME" tvg-id="KRBC4000002ME" tvg-chno="64" tvg-name="iHQ 돈쭐내러 왔습니다" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4000002ME_20260422T013925SQUARE.png",iHQ 돈쭐내러 왔습니다
 https://jmp2.uk/stvp-KRBC4000002ME
-#EXTINF:-1 channel-id="KRBD5200002XY" tvg-id="KRBD5200002XY" tvg-chno="63" tvg-name="JTBC 골프" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD5200002XY_20260623T003159SQUARE.png",JTBC 골프
+#EXTINF:-1 channel-id="KRBD5200002XY" tvg-id="KRBD5200002XY" tvg-chno="65" tvg-name="JTBC 골프" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD5200002XY_20260623T003159SQUARE.png",JTBC 골프
 https://jmp2.uk/stvp-KRBD5200002XY
-#EXTINF:-1 channel-id="KRBD5200001G8" tvg-id="KRBD5200001G8" tvg-chno="64" tvg-name="JTBC 내 친구의 집은 어디인가" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD5200001G8_20261006T042823SQUARE.png",JTBC 내 친구의 집은 어디인가
+#EXTINF:-1 channel-id="KRBD5200001G8" tvg-id="KRBD5200001G8" tvg-chno="66" tvg-name="JTBC 내 친구의 집은 어디인가" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD5200001G8_20261006T042823SQUARE.png",JTBC 내 친구의 집은 어디인가
 https://jmp2.uk/stvp-KRBD5200001G8
-#EXTINF:-1 channel-id="KR400006MW" tvg-id="KR400006MW" tvg-chno="65" tvg-name="JTBC 냉장고를 부탁해" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR400006MW_20260623T003206SQUARE.png",JTBC 냉장고를 부탁해
+#EXTINF:-1 channel-id="KR400006MW" tvg-id="KR400006MW" tvg-chno="67" tvg-name="JTBC 냉장고를 부탁해" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR400006MW_20260623T003206SQUARE.png",JTBC 냉장고를 부탁해
 https://jmp2.uk/stvp-KR400006MW
-#EXTINF:-1 channel-id="KRBC46000014A" tvg-id="KRBC46000014A" tvg-chno="66" tvg-name="JTBC 냉장고를 부탁해 2" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC46000014A_20260422T013548SQUARE.png",JTBC 냉장고를 부탁해 2
+#EXTINF:-1 channel-id="KRBC46000014A" tvg-id="KRBC46000014A" tvg-chno="68" tvg-name="JTBC 냉장고를 부탁해 2" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC46000014A_20260422T013548SQUARE.png",JTBC 냉장고를 부탁해 2
 https://jmp2.uk/stvp-KRBC46000014A
-#EXTINF:-1 channel-id="KRBC46000173Y" tvg-id="KRBC46000173Y" tvg-chno="67" tvg-name="JTBC 뉴스" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC46000173Y_20260422T013552SQUARE.png",JTBC 뉴스
+#EXTINF:-1 channel-id="KRBC46000173Y" tvg-id="KRBC46000173Y" tvg-chno="69" tvg-name="JTBC 뉴스" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC46000173Y_20260422T013552SQUARE.png",JTBC 뉴스
 https://jmp2.uk/stvp-KRBC46000173Y
-#EXTINF:-1 channel-id="KR400003IP" tvg-id="KR400003IP" tvg-chno="68" tvg-name="JTBC 무자식 상팔자" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR400003IP_20261006T042828SQUARE.png",JTBC 무자식 상팔자
+#EXTINF:-1 channel-id="KR400003IP" tvg-id="KR400003IP" tvg-chno="70" tvg-name="JTBC 무자식 상팔자" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR400003IP_20261006T042828SQUARE.png",JTBC 무자식 상팔자
 https://jmp2.uk/stvp-KR400003IP
-#EXTINF:-1 channel-id="KR4000020F" tvg-id="KR4000020F" tvg-chno="69" tvg-name="JTBC 보좌관" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR4000020F_20260805T003550SQUARE.png",JTBC 보좌관
+#EXTINF:-1 channel-id="KR4000020F" tvg-id="KR4000020F" tvg-chno="71" tvg-name="JTBC 보좌관" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR4000020F_20260805T003550SQUARE.png",JTBC 보좌관
 https://jmp2.uk/stvp-KR4000020F
-#EXTINF:-1 channel-id="KRBD5200003O2" tvg-id="KRBD5200003O2" tvg-chno="70" tvg-name="JTBC 슈퍼밴드" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD5200003O2_20260901T053852SQUARE.png",JTBC 슈퍼밴드
+#EXTINF:-1 channel-id="KRBD5200003O2" tvg-id="KRBD5200003O2" tvg-chno="72" tvg-name="JTBC 슈퍼밴드" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD5200003O2_20260901T053852SQUARE.png",JTBC 슈퍼밴드
 https://jmp2.uk/stvp-KRBD5200003O2
-#EXTINF:-1 channel-id="KRBD43000023M" tvg-id="KRBD43000023M" tvg-chno="71" tvg-name="JTBC 싱어게인" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD43000023M_20261102T074347SQUARE.png",JTBC 싱어게인
+#EXTINF:-1 channel-id="KRBD43000023M" tvg-id="KRBD43000023M" tvg-chno="73" tvg-name="JTBC 싱어게인" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD43000023M_20261102T074347SQUARE.png",JTBC 싱어게인
 https://jmp2.uk/stvp-KRBD43000023M
-#EXTINF:-1 channel-id="KRBC5000019FB" tvg-id="KRBC5000019FB" tvg-chno="72" tvg-name="JTBC 이혼숙려캠프" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC5000019FB_20260422T013605SQUARE.png",JTBC 이혼숙려캠프
+#EXTINF:-1 channel-id="KRBC5000019FB" tvg-id="KRBC5000019FB" tvg-chno="74" tvg-name="JTBC 이혼숙려캠프" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC5000019FB_20260422T013605SQUARE.png",JTBC 이혼숙려캠프
 https://jmp2.uk/stvp-KRBC5000019FB
-#EXTINF:-1 channel-id="KRBD4300003MW" tvg-id="KRBD4300003MW" tvg-chno="73" tvg-name="JTBC 차이나는 클라스" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD4300003MW_20261020T053326SQUARE.png",JTBC 차이나는 클라스
+#EXTINF:-1 channel-id="KRBD4300003MW" tvg-id="KRBD4300003MW" tvg-chno="75" tvg-name="JTBC 차이나는 클라스" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD4300003MW_20261020T053326SQUARE.png",JTBC 차이나는 클라스
 https://jmp2.uk/stvp-KRBD4300003MW
-#EXTINF:-1 channel-id="KRBC50000218R" tvg-id="KRBC50000218R" tvg-chno="74" tvg-name="JTBC 톡파원 25시" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC50000218R_20260422T013622SQUARE.png",JTBC 톡파원 25시
+#EXTINF:-1 channel-id="KRBC50000218R" tvg-id="KRBC50000218R" tvg-chno="76" tvg-name="JTBC 톡파원 25시" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC50000218R_20260422T013622SQUARE.png",JTBC 톡파원 25시
 https://jmp2.uk/stvp-KRBC50000218R
-#EXTINF:-1 channel-id="KR40000410" tvg-id="KR40000410" tvg-chno="75" tvg-name="JTBC 트래블러" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR40000410_20261006T042837SQUARE.png",JTBC 트래블러
+#EXTINF:-1 channel-id="KR40000410" tvg-id="KR40000410" tvg-chno="77" tvg-name="JTBC 트래블러" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR40000410_20261006T042837SQUARE.png",JTBC 트래블러
 https://jmp2.uk/stvp-KR40000410
-#EXTINF:-1 channel-id="KR400005KB" tvg-id="KR400005KB" tvg-chno="76" tvg-name="JTBC 한끼줍쇼" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR400005KB_20261006T042842SQUARE.png",JTBC 한끼줍쇼
+#EXTINF:-1 channel-id="KR400005KB" tvg-id="KR400005KB" tvg-chno="78" tvg-name="JTBC 한끼줍쇼" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR400005KB_20261006T042842SQUARE.png",JTBC 한끼줍쇼
 https://jmp2.uk/stvp-KR400005KB
-#EXTINF:-1 channel-id="KRBC5000020AF" tvg-id="KRBC5000020AF" tvg-chno="77" tvg-name="JTBC 한문철의 블랙박스리뷰" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC5000020AF_20260422T013626SQUARE.png",JTBC 한문철의 블랙박스리뷰
+#EXTINF:-1 channel-id="KRBC5000020AF" tvg-id="KRBC5000020AF" tvg-chno="79" tvg-name="JTBC 한문철의 블랙박스리뷰" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC5000020AF_20260422T013626SQUARE.png",JTBC 한문철의 블랙박스리뷰
 https://jmp2.uk/stvp-KRBC5000020AF
-#EXTINF:-1 channel-id="KRBC41000021C" tvg-id="KRBC41000021C" tvg-chno="78" tvg-name="K-ASMR" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC41000021C_20260422T013632SQUARE.png",K-ASMR
+#EXTINF:-1 channel-id="KRBC41000021C" tvg-id="KRBC41000021C" tvg-chno="80" tvg-name="K-ASMR" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC41000021C_20260422T013632SQUARE.png",K-ASMR
 https://jmp2.uk/stvp-KRBC41000021C
-#EXTINF:-1 channel-id="KRBC4400003SD" tvg-id="KRBC4400003SD" tvg-chno="79" tvg-name="KBS 1박2일 시즌1" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4400003SD_20260422T013634SQUARE.png",KBS 1박2일 시즌1
+#EXTINF:-1 channel-id="KRBC4400003SD" tvg-id="KRBC4400003SD" tvg-chno="81" tvg-name="KBS 1박2일 시즌1" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4400003SD_20260422T013634SQUARE.png",KBS 1박2일 시즌1
 https://jmp2.uk/stvp-KRBC4400003SD
-#EXTINF:-1 channel-id="KR45000060I" tvg-id="KR45000060I" tvg-chno="80" tvg-name="KBS HOT CLIP 예능" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR45000060I_20260422T012520SQUARE.png",KBS HOT CLIP 예능
+#EXTINF:-1 channel-id="KR45000060I" tvg-id="KR45000060I" tvg-chno="82" tvg-name="KBS HOT CLIP 예능" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR45000060I_20260422T012520SQUARE.png",KBS HOT CLIP 예능
 https://jmp2.uk/stvp-KR45000060I
-#EXTINF:-1 channel-id="KR45000052W" tvg-id="KR45000052W" tvg-chno="81" tvg-name="KBS HOT CLIP 음악" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR45000052W_20260901T053905SQUARE.png",KBS HOT CLIP 음악
+#EXTINF:-1 channel-id="KR45000052W" tvg-id="KR45000052W" tvg-chno="83" tvg-name="KBS HOT CLIP 음악" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR45000052W_20260901T053905SQUARE.png",KBS HOT CLIP 음악
 https://jmp2.uk/stvp-KR45000052W
-#EXTINF:-1 channel-id="KRBC3200009M7" tvg-id="KRBC3200009M7" tvg-chno="82" tvg-name="KBS Joy 무엇이든 물어보살" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200009M7_20260422T013637SQUARE.png",KBS Joy 무엇이든 물어보살
+#EXTINF:-1 channel-id="KRBC3200009M7" tvg-id="KRBC3200009M7" tvg-chno="84" tvg-name="KBS Joy 무엇이든 물어보살" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200009M7_20260422T013637SQUARE.png",KBS Joy 무엇이든 물어보살
 https://jmp2.uk/stvp-KRBC3200009M7
-#EXTINF:-1 channel-id="KRBC4000005EP" tvg-id="KRBC4000005EP" tvg-chno="83" tvg-name="KBS Joy 연애의 참견" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4000005EP_20260422T013639SQUARE.png",KBS Joy 연애의 참견
+#EXTINF:-1 channel-id="KRBC4000005EP" tvg-id="KRBC4000005EP" tvg-chno="85" tvg-name="KBS Joy 연애의 참견" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4000005EP_20260422T013639SQUARE.png",KBS Joy 연애의 참견
 https://jmp2.uk/stvp-KRBC4000005EP
-#EXTINF:-1 channel-id="KR700003L9" tvg-id="KR700003L9" tvg-chno="84" tvg-name="KBS 개그콘서트" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR700003L9_20260728T033403SQUARE.png",KBS 개그콘서트
+#EXTINF:-1 channel-id="KR700003L9" tvg-id="KR700003L9" tvg-chno="86" tvg-name="KBS 개그콘서트" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR700003L9_20260728T033403SQUARE.png",KBS 개그콘서트
 https://jmp2.uk/stvp-KR700003L9
-#EXTINF:-1 channel-id="KR5100001TH" tvg-id="KR5100001TH" tvg-chno="85" tvg-name="KBS 뉴스24" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR5100001TH_20260901T053911SQUARE.png",KBS 뉴스24
+#EXTINF:-1 channel-id="KR5100001TH" tvg-id="KR5100001TH" tvg-chno="87" tvg-name="KBS 뉴스24" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR5100001TH_20260901T053911SQUARE.png",KBS 뉴스24
 https://jmp2.uk/stvp-KR5100001TH
-#EXTINF:-1 channel-id="KRBC4400001TZ" tvg-id="KRBC4400001TZ" tvg-chno="86" tvg-name="KBS 신사와 아가씨" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4400001TZ_20260422T013647SQUARE.png",KBS 신사와 아가씨
+#EXTINF:-1 channel-id="KRBC4400001TZ" tvg-id="KRBC4400001TZ" tvg-chno="88" tvg-name="KBS 신사와 아가씨" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4400001TZ_20260422T013647SQUARE.png",KBS 신사와 아가씨
 https://jmp2.uk/stvp-KRBC4400001TZ
-#EXTINF:-1 channel-id="KR7000023Z" tvg-id="KR7000023Z" tvg-chno="87" tvg-name="KBS 오월의 청춘" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR7000023Z_20261006T042846SQUARE.png",KBS 오월의 청춘
+#EXTINF:-1 channel-id="KR7000023Z" tvg-id="KR7000023Z" tvg-chno="89" tvg-name="KBS 오월의 청춘" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR7000023Z_20261006T042846SQUARE.png",KBS 오월의 청춘
 https://jmp2.uk/stvp-KR7000023Z
-#EXTINF:-1 channel-id="KRBC4400002AO" tvg-id="KRBC4400002AO" tvg-chno="88" tvg-name="KBS 최고다 이순신" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4400002AO_20260506T053640SQUARE.png",KBS 최고다 이순신
+#EXTINF:-1 channel-id="KRBC4400002AO" tvg-id="KRBC4400002AO" tvg-chno="90" tvg-name="KBS 최고다 이순신" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4400002AO_20260506T053640SQUARE.png",KBS 최고다 이순신
 https://jmp2.uk/stvp-KRBC4400002AO
-#EXTINF:-1 channel-id="KR4600012CR" tvg-id="KR4600012CR" tvg-chno="89" tvg-name="KBS 태조 왕건" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR4600012CR_20260422T012526SQUARE.png",KBS 태조 왕건
+#EXTINF:-1 channel-id="KR4600012CR" tvg-id="KR4600012CR" tvg-chno="91" tvg-name="KBS 태조 왕건" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR4600012CR_20260422T012526SQUARE.png",KBS 태조 왕건
 https://jmp2.uk/stvp-KR4600012CR
-#EXTINF:-1 channel-id="KRBC3200023BG" tvg-id="KRBC3200023BG" tvg-chno="90" tvg-name="M2" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200023BG_20260422T013652SQUARE.png",M2
+#EXTINF:-1 channel-id="KRBC3200023BG" tvg-id="KRBC3200023BG" tvg-chno="92" tvg-name="M2" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200023BG_20260422T013652SQUARE.png",M2
 https://jmp2.uk/stvp-KRBC3200023BG
-#EXTINF:-1 channel-id="KRBB500037T3" tvg-id="KRBB500037T3" tvg-chno="91" tvg-name="MBC every1 별순검" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB500037T3_20260422T013655SQUARE.png",MBC every1 별순검
+#EXTINF:-1 channel-id="KRBB500037T3" tvg-id="KRBB500037T3" tvg-chno="93" tvg-name="MBC every1 별순검" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB500037T3_20260422T013655SQUARE.png",MBC every1 별순검
 https://jmp2.uk/stvp-KRBB500037T3
-#EXTINF:-1 channel-id="KRBB500034DY" tvg-id="KRBB500034DY" tvg-chno="92" tvg-name="MBC every1 어서와 한국은 처음이지?" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB500034DY_20260422T013657SQUARE.png",MBC every1 어서와 한국은 처음이지?
+#EXTINF:-1 channel-id="KRBB500034DY" tvg-id="KRBB500034DY" tvg-chno="94" tvg-name="MBC every1 어서와 한국은 처음이지?" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB500034DY_20260422T013657SQUARE.png",MBC every1 어서와 한국은 처음이지?
 https://jmp2.uk/stvp-KRBB500034DY
-#EXTINF:-1 channel-id="KR4500001KZ" tvg-id="KR4500001KZ" tvg-chno="93" tvg-name="MBC HOT CLIP 드라마" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR4500001KZ_20260422T012505SQUARE.png",MBC HOT CLIP 드라마
+#EXTINF:-1 channel-id="KR4500001KZ" tvg-id="KR4500001KZ" tvg-chno="95" tvg-name="MBC HOT CLIP 드라마" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR4500001KZ_20260422T012505SQUARE.png",MBC HOT CLIP 드라마
 https://jmp2.uk/stvp-KR4500001KZ
-#EXTINF:-1 channel-id="KR4500002GS" tvg-id="KR4500002GS" tvg-chno="94" tvg-name="MBC HOT CLIP 예능" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR4500002GS_20260422T012508SQUARE.png",MBC HOT CLIP 예능
+#EXTINF:-1 channel-id="KR4500002GS" tvg-id="KR4500002GS" tvg-chno="96" tvg-name="MBC HOT CLIP 예능" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR4500002GS_20260422T012508SQUARE.png",MBC HOT CLIP 예능
 https://jmp2.uk/stvp-KR4500002GS
-#EXTINF:-1 channel-id="KRBC2000010X" tvg-id="KRBC2000010X" tvg-chno="95" tvg-name="MBC 거침없이 하이킥" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC2000010X_20260422T013700SQUARE.png",MBC 거침없이 하이킥
+#EXTINF:-1 channel-id="KRBC2000010X" tvg-id="KRBC2000010X" tvg-chno="97" tvg-name="MBC 거침없이 하이킥" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC2000010X_20260422T013700SQUARE.png",MBC 거침없이 하이킥
 https://jmp2.uk/stvp-KRBC2000010X
-#EXTINF:-1 channel-id="KR4800003H0" tvg-id="KR4800003H0" tvg-chno="96" tvg-name="MBC 구해줘홈즈" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR4800003H0_20260422T012528SQUARE.png",MBC 구해줘홈즈
+#EXTINF:-1 channel-id="KR4800003H0" tvg-id="KR4800003H0" tvg-chno="98" tvg-name="MBC 구해줘홈즈" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR4800003H0_20260422T012528SQUARE.png",MBC 구해줘홈즈
 https://jmp2.uk/stvp-KR4800003H0
-#EXTINF:-1 channel-id="KRBC200002I0" tvg-id="KRBC200002I0" tvg-chno="97" tvg-name="MBC 나혼자산다" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC200002I0_20261006T042849SQUARE.png",MBC 나혼자산다
+#EXTINF:-1 channel-id="KRBC200002I0" tvg-id="KRBC200002I0" tvg-chno="99" tvg-name="MBC 나혼자산다" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC200002I0_20261006T042849SQUARE.png",MBC 나혼자산다
 https://jmp2.uk/stvp-KRBC200002I0
-#EXTINF:-1 channel-id="KRBB5000073UD" tvg-id="KRBB5000073UD" tvg-chno="98" tvg-name="MBC 놀면 뭐하니" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB5000073UD_20260422T013707SQUARE.png",MBC 놀면 뭐하니
+#EXTINF:-1 channel-id="KRBB5000073UD" tvg-id="KRBB5000073UD" tvg-chno="100" tvg-name="MBC 놀면 뭐하니" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB5000073UD_20260422T013707SQUARE.png",MBC 놀면 뭐하니
 https://jmp2.uk/stvp-KRBB5000073UD
-#EXTINF:-1 channel-id="KR48000047I" tvg-id="KR48000047I" tvg-chno="99" tvg-name="MBC 라디오스타" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR48000047I_20260422T012531SQUARE.png",MBC 라디오스타
+#EXTINF:-1 channel-id="KR48000047I" tvg-id="KR48000047I" tvg-chno="101" tvg-name="MBC 라디오스타" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR48000047I_20260422T012531SQUARE.png",MBC 라디오스타
 https://jmp2.uk/stvp-KR48000047I
-#EXTINF:-1 channel-id="KRBB5000069BS" tvg-id="KRBB5000069BS" tvg-chno="100" tvg-name="MBC 무한도전" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB5000069BS_20260422T012440SQUARE.png",MBC 무한도전
+#EXTINF:-1 channel-id="KRBB5000069BS" tvg-id="KRBB5000069BS" tvg-chno="102" tvg-name="MBC 무한도전" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB5000069BS_20260422T012440SQUARE.png",MBC 무한도전
 https://jmp2.uk/stvp-KRBB5000069BS
-#EXTINF:-1 channel-id="KRBB5000070U4" tvg-id="KRBB5000070U4" tvg-chno="101" tvg-name="MBC 밤에 피는 꽃" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB5000070U4_20260422T013714SQUARE.png",MBC 밤에 피는 꽃
+#EXTINF:-1 channel-id="KRBB5000070U4" tvg-id="KRBB5000070U4" tvg-chno="103" tvg-name="MBC 밤에 피는 꽃" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB5000070U4_20260422T013714SQUARE.png",MBC 밤에 피는 꽃
 https://jmp2.uk/stvp-KRBB5000070U4
-#EXTINF:-1 channel-id="KRBB50000711L" tvg-id="KRBB50000711L" tvg-chno="102" tvg-name="MBC 심야괴담회" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB50000711L_20260422T013718SQUARE.png",MBC 심야괴담회
+#EXTINF:-1 channel-id="KRBB50000711L" tvg-id="KRBB50000711L" tvg-chno="104" tvg-name="MBC 심야괴담회" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB50000711L_20260422T013718SQUARE.png",MBC 심야괴담회
 https://jmp2.uk/stvp-KRBB50000711L
-#EXTINF:-1 channel-id="KRBC20000347" tvg-id="KRBC20000347" tvg-chno="103" tvg-name="MBC 안싸우면 다행이야" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC20000347_20260422T013721SQUARE.png",MBC 안싸우면 다행이야
+#EXTINF:-1 channel-id="KRBC20000347" tvg-id="KRBC20000347" tvg-chno="105" tvg-name="MBC 안싸우면 다행이야" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC20000347_20260422T013721SQUARE.png",MBC 안싸우면 다행이야
 https://jmp2.uk/stvp-KRBC20000347
-#EXTINF:-1 channel-id="KRBB50000721W" tvg-id="KRBB50000721W" tvg-chno="104" tvg-name="MBC 오은영리포트 결혼지옥" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB50000721W_20260422T013724SQUARE.png",MBC 오은영리포트 결혼지옥
+#EXTINF:-1 channel-id="KRBB50000721W" tvg-id="KRBB50000721W" tvg-chno="106" tvg-name="MBC 오은영리포트 결혼지옥" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB50000721W_20260422T013724SQUARE.png",MBC 오은영리포트 결혼지옥
 https://jmp2.uk/stvp-KRBB50000721W
-#EXTINF:-1 channel-id="KRBC20000418" tvg-id="KRBC20000418" tvg-chno="105" tvg-name="MBC 전지적 참견 시점" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC20000418_20260422T013728SQUARE.png",MBC 전지적 참견 시점
+#EXTINF:-1 channel-id="KRBC20000418" tvg-id="KRBC20000418" tvg-chno="107" tvg-name="MBC 전지적 참견 시점" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC20000418_20260422T013728SQUARE.png",MBC 전지적 참견 시점
 https://jmp2.uk/stvp-KRBC20000418
-#EXTINF:-1 channel-id="KRBC200005H6" tvg-id="KRBC200005H6" tvg-chno="106" tvg-name="MBC 지붕뚫고 하이킥" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC200005H6_20260422T013731SQUARE.png",MBC 지붕뚫고 하이킥
+#EXTINF:-1 channel-id="KRBC200005H6" tvg-id="KRBC200005H6" tvg-chno="108" tvg-name="MBC 지붕뚫고 하이킥" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC200005H6_20260422T013731SQUARE.png",MBC 지붕뚫고 하이킥
 https://jmp2.uk/stvp-KRBC200005H6
-#EXTINF:-1 channel-id="KRBC3500017PO" tvg-id="KRBC3500017PO" tvg-chno="107" tvg-name="MBN 나는 자연인이다" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3500017PO_20260422T013735SQUARE.png",MBN 나는 자연인이다
+#EXTINF:-1 channel-id="KRBC3500017PO" tvg-id="KRBC3500017PO" tvg-chno="109" tvg-name="MBN 나는 자연인이다" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3500017PO_20260422T013735SQUARE.png",MBN 나는 자연인이다
 https://jmp2.uk/stvp-KRBC3500017PO
-#EXTINF:-1 channel-id="KRBC4000003J2" tvg-id="KRBC4000003J2" tvg-chno="108" tvg-name="MBN 뉴스" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4000003J2_20260422T013738SQUARE.png",MBN 뉴스
+#EXTINF:-1 channel-id="KRBC4000003J2" tvg-id="KRBC4000003J2" tvg-chno="110" tvg-name="MBN 뉴스" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4000003J2_20260422T013738SQUARE.png",MBN 뉴스
 https://jmp2.uk/stvp-KRBC4000003J2
-#EXTINF:-1 channel-id="KRBC3500019CD" tvg-id="KRBC3500019CD" tvg-chno="109" tvg-name="MBN 속풀이쇼 동치미" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3500019CD_20260422T013740SQUARE.png",MBN 속풀이쇼 동치미
+#EXTINF:-1 channel-id="KRBC3500019CD" tvg-id="KRBC3500019CD" tvg-chno="111" tvg-name="MBN 속풀이쇼 동치미" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3500019CD_20260422T013740SQUARE.png",MBN 속풀이쇼 동치미
 https://jmp2.uk/stvp-KRBC3500019CD
-#EXTINF:-1 channel-id="KRBC3500018J9" tvg-id="KRBC3500018J9" tvg-chno="110" tvg-name="MBN 휴먼다큐 사노라면" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3500018J9_20260422T013743SQUARE.png",MBN 휴먼다큐 사노라면
+#EXTINF:-1 channel-id="KRBC3500018J9" tvg-id="KRBC3500018J9" tvg-chno="112" tvg-name="MBN 휴먼다큐 사노라면" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3500018J9_20260422T013743SQUARE.png",MBN 휴먼다큐 사노라면
 https://jmp2.uk/stvp-KRBC3500018J9
-#EXTINF:-1 channel-id="KRBC3200004D1" tvg-id="KRBC3200004D1" tvg-chno="111" tvg-name="MDSSPHERE MOVIES" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200004D1_20261026T044606SQUARE.png",MDSSPHERE MOVIES
+#EXTINF:-1 channel-id="KRBC3200004D1" tvg-id="KRBC3200004D1" tvg-chno="113" tvg-name="MDSSPHERE MOVIES" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200004D1_20261026T044606SQUARE.png",MDSSPHERE MOVIES
 https://jmp2.uk/stvp-KRBC3200004D1
-#EXTINF:-1 channel-id="KRBC8000144F" tvg-id="KRBC8000144F" tvg-chno="112" tvg-name="Mnet 스트릿 월드 파이터: 디렉터스 워" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC8000144F_20261006T042856SQUARE.png",Mnet 스트릿 월드 파이터: 디렉터스 워
+#EXTINF:-1 channel-id="KRBC8000144F" tvg-id="KRBC8000144F" tvg-chno="114" tvg-name="Mnet 스트릿 월드 파이터: 디렉터스 워" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC8000144F_20261006T042856SQUARE.png",Mnet 스트릿 월드 파이터: 디렉터스 워
 https://jmp2.uk/stvp-KRBC8000144F
-#EXTINF:-1 channel-id="KR2400001TI" tvg-id="KR2400001TI" tvg-chno="113" tvg-name="Mr. Bean" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR2400001TI_20260422T013746SQUARE.png",Mr. Bean
+#EXTINF:-1 channel-id="KR2400001TI" tvg-id="KR2400001TI" tvg-chno="115" tvg-name="Mr. Bean" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR2400001TI_20260422T013746SQUARE.png",Mr. Bean
 https://jmp2.uk/stvp-KR2400001TI
-#EXTINF:-1 channel-id="KRBC3200005SH" tvg-id="KRBC3200005SH" tvg-chno="114" tvg-name="OGN 스타리그" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200005SH_20260422T013748SQUARE.png",OGN 스타리그
+#EXTINF:-1 channel-id="KRBC3200005SH" tvg-id="KRBC3200005SH" tvg-chno="116" tvg-name="OGN 스타리그" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200005SH_20260422T013748SQUARE.png",OGN 스타리그
 https://jmp2.uk/stvp-KRBC3200005SH
-#EXTINF:-1 channel-id="KRBD3100007WB" tvg-id="KRBD3100007WB" tvg-chno="115" tvg-name="PGA Tour" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD3100007WB_20260422T013751SQUARE.png",PGA Tour
+#EXTINF:-1 channel-id="KRBD3100007WB" tvg-id="KRBD3100007WB" tvg-chno="117" tvg-name="PGA Tour" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD3100007WB_20260422T013751SQUARE.png",PGA Tour
 https://jmp2.uk/stvp-KRBD3100007WB
-#EXTINF:-1 channel-id="KR1300003KW" tvg-id="KR1300003KW" tvg-chno="116" tvg-name="Samsung Television Network" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR1300003KW_20260915T035354SQUARE.png",Samsung Television Network
+#EXTINF:-1 channel-id="KR1300003KW" tvg-id="KR1300003KW" tvg-chno="118" tvg-name="Samsung Television Network" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR1300003KW_20260915T035354SQUARE.png",Samsung Television Network
 https://jmp2.uk/stvp-KR1300003KW
-#EXTINF:-1 channel-id="KRAH2201403A" tvg-id="KRAH2201403A" tvg-chno="117" tvg-name="SAMSUNG UHD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRAH2201403A_20260422T012851SQUARE.png",SAMSUNG UHD
+#EXTINF:-1 channel-id="KRAH2201403A" tvg-id="KRAH2201403A" tvg-chno="119" tvg-name="SAMSUNG UHD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRAH2201403A_20260422T012851SQUARE.png",SAMSUNG UHD
 https://jmp2.uk/stvp-KRAH2201403A
-#EXTINF:-1 channel-id="KR4500003V9" tvg-id="KR4500003V9" tvg-chno="118" tvg-name="SBS HOT CLIP 드라마" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR4500003V9_20260422T012511SQUARE.png",SBS HOT CLIP 드라마
+#EXTINF:-1 channel-id="KR4500003V9" tvg-id="KR4500003V9" tvg-chno="120" tvg-name="SBS HOT CLIP 드라마" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR4500003V9_20260422T012511SQUARE.png",SBS HOT CLIP 드라마
 https://jmp2.uk/stvp-KR4500003V9
-#EXTINF:-1 channel-id="KR4500004XC" tvg-id="KR4500004XC" tvg-chno="119" tvg-name="SBS HOT CLIP 예능" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR4500004XC_20260422T012514SQUARE.png",SBS HOT CLIP 예능
+#EXTINF:-1 channel-id="KR4500004XC" tvg-id="KR4500004XC" tvg-chno="121" tvg-name="SBS HOT CLIP 예능" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR4500004XC_20260422T012514SQUARE.png",SBS HOT CLIP 예능
 https://jmp2.uk/stvp-KR4500004XC
-#EXTINF:-1 channel-id="KR4500008DI" tvg-id="KR4500008DI" tvg-chno="120" tvg-name="SBS No.1 뉴스라이브" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR4500008DI_20260901T053931SQUARE.png",SBS No.1 뉴스라이브
+#EXTINF:-1 channel-id="KR4500008DI" tvg-id="KR4500008DI" tvg-chno="122" tvg-name="SBS No.1 뉴스라이브" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR4500008DI_20260901T053931SQUARE.png",SBS No.1 뉴스라이브
 https://jmp2.uk/stvp-KR4500008DI
-#EXTINF:-1 channel-id="KRBB420000769" tvg-id="KRBB420000769" tvg-chno="121" tvg-name="SBS TV 동물농장" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB420000769_20260422T013756SQUARE.png",SBS TV 동물농장
+#EXTINF:-1 channel-id="KRBB420000769" tvg-id="KRBB420000769" tvg-chno="123" tvg-name="SBS TV 동물농장" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB420000769_20260422T013756SQUARE.png",SBS TV 동물농장
 https://jmp2.uk/stvp-KRBB420000769
-#EXTINF:-1 channel-id="KRBB4200002MM" tvg-id="KRBB4200002MM" tvg-chno="122" tvg-name="SBS 런닝맨" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200002MM_20260422T013232SQUARE.png",SBS 런닝맨
+#EXTINF:-1 channel-id="KRBB4200002MM" tvg-id="KRBB4200002MM" tvg-chno="124" tvg-name="SBS 런닝맨" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200002MM_20260422T013232SQUARE.png",SBS 런닝맨
 https://jmp2.uk/stvp-KRBB4200002MM
-#EXTINF:-1 channel-id="KR10000027H" tvg-id="KR10000027H" tvg-chno="123" tvg-name="SMTOWN" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR10000027H_20260929T073801SQUARE.png",SMTOWN
+#EXTINF:-1 channel-id="KR10000027H" tvg-id="KR10000027H" tvg-chno="125" tvg-name="SMTOWN" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR10000027H_20260929T073801SQUARE.png",SMTOWN
 https://jmp2.uk/stvp-KR10000027H
-#EXTINF:-1 channel-id="KRBC3200008M6" tvg-id="KRBC3200008M6" tvg-chno="124" tvg-name="TV CHOSUN 식객 허영만의 백반기행" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200008M6_20260422T013900SQUARE.png",TV CHOSUN 식객 허영만의 백반기행
+#EXTINF:-1 channel-id="KRBC3200008M6" tvg-id="KRBC3200008M6" tvg-chno="126" tvg-name="TV CHOSUN 식객 허영만의 백반기행" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200008M6_20260422T013900SQUARE.png",TV CHOSUN 식객 허영만의 백반기행
 https://jmp2.uk/stvp-KRBC3200008M6
-#EXTINF:-1 channel-id="KRBC800015MH" tvg-id="KRBC800015MH" tvg-chno="125" tvg-name="tvN SPORTS" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC800015MH_20260422T013928SQUARE.png",tvN SPORTS
+#EXTINF:-1 channel-id="KRBC800015MH" tvg-id="KRBC800015MH" tvg-chno="127" tvg-name="tvN SPORTS" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC800015MH_20260422T013928SQUARE.png",tvN SPORTS
 https://jmp2.uk/stvp-KRBC800015MH
-#EXTINF:-1 channel-id="KRBC3200014XZ" tvg-id="KRBC3200014XZ" tvg-chno="126" tvg-name="tvN STORY" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200014XZ_20260422T013931SQUARE.png",tvN STORY
+#EXTINF:-1 channel-id="KRBC3200014XZ" tvg-id="KRBC3200014XZ" tvg-chno="128" tvg-name="tvN STORY" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200014XZ_20260422T013931SQUARE.png",tvN STORY
 https://jmp2.uk/stvp-KRBC3200014XZ
-#EXTINF:-1 channel-id="KRBC320002200" tvg-id="KRBC320002200" tvg-chno="127" tvg-name="tvN STORY 김창옥쇼 3-4 이어보기" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC320002200_20260728T033444SQUARE.png",tvN STORY 김창옥쇼 3-4 이어보기
+#EXTINF:-1 channel-id="KRBC320002200" tvg-id="KRBC320002200" tvg-chno="129" tvg-name="tvN STORY 김창옥쇼 3-4 이어보기" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC320002200_20260728T033444SQUARE.png",tvN STORY 김창옥쇼 3-4 이어보기
 https://jmp2.uk/stvp-KRBC320002200
-#EXTINF:-1 channel-id="KRBD3100002JL" tvg-id="KRBD3100002JL" tvg-chno="128" tvg-name="tvN STORY 이호선 상담소" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD3100002JL_20261006T042927SQUARE.png",tvN STORY 이호선 상담소
+#EXTINF:-1 channel-id="KRBD3100002JL" tvg-id="KRBD3100002JL" tvg-chno="130" tvg-name="tvN STORY 이호선 상담소" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD3100002JL_20261006T042927SQUARE.png",tvN STORY 이호선 상담소
 https://jmp2.uk/stvp-KRBD3100002JL
-#EXTINF:-1 channel-id="KRBC800013YF" tvg-id="KRBC800013YF" tvg-chno="129" tvg-name="tvN 견우와 선녀" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC800013YF_20261006T042930SQUARE.png",tvN 견우와 선녀
+#EXTINF:-1 channel-id="KRBC800013YF" tvg-id="KRBC800013YF" tvg-chno="131" tvg-name="tvN 견우와 선녀" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC800013YF_20261006T042930SQUARE.png",tvN 견우와 선녀
 https://jmp2.uk/stvp-KRBC800013YF
-#EXTINF:-1 channel-id="KRBC32000261J" tvg-id="KRBC32000261J" tvg-chno="130" tvg-name="tvN 놀라운 토요일 하이라이트" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC32000261J_20260422T013933SQUARE.png",tvN 놀라운 토요일 하이라이트
+#EXTINF:-1 channel-id="KRBC32000261J" tvg-id="KRBC32000261J" tvg-chno="132" tvg-name="tvN 놀라운 토요일 하이라이트" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC32000261J_20260422T013933SQUARE.png",tvN 놀라운 토요일 하이라이트
 https://jmp2.uk/stvp-KRBC32000261J
-#EXTINF:-1 channel-id="KRBC800016YS" tvg-id="KRBC800016YS" tvg-chno="131" tvg-name="tvN 대탈출 전 시즌" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC800016YS_20260422T013935SQUARE.png",tvN 대탈출 전 시즌
+#EXTINF:-1 channel-id="KRBC800016YS" tvg-id="KRBC800016YS" tvg-chno="133" tvg-name="tvN 대탈출 전 시즌" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC800016YS_20260422T013935SQUARE.png",tvN 대탈출 전 시즌
 https://jmp2.uk/stvp-KRBC800016YS
-#EXTINF:-1 channel-id="KRBC3200021ZA" tvg-id="KRBC3200021ZA" tvg-chno="132" tvg-name="tvN 벌거벗은 세계사 요약.zip" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200021ZA_20261006T042933SQUARE.png",tvN 벌거벗은 세계사 요약.zip
+#EXTINF:-1 channel-id="KRBC3200021ZA" tvg-id="KRBC3200021ZA" tvg-chno="134" tvg-name="tvN 벌거벗은 세계사 요약.zip" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200021ZA_20261006T042933SQUARE.png",tvN 벌거벗은 세계사 요약.zip
 https://jmp2.uk/stvp-KRBC3200021ZA
-#EXTINF:-1 channel-id="KRBC3200032ZM" tvg-id="KRBC3200032ZM" tvg-chno="133" tvg-name="tvN 뿅뿅 지구오락실 전 시즌 모아보기" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200032ZM_20260623T003301SQUARE.png",tvN 뿅뿅 지구오락실 전 시즌 모아보기
+#EXTINF:-1 channel-id="KRBC3200032ZM" tvg-id="KRBC3200032ZM" tvg-chno="135" tvg-name="tvN 뿅뿅 지구오락실 전 시즌 모아보기" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200032ZM_20260623T003301SQUARE.png",tvN 뿅뿅 지구오락실 전 시즌 모아보기
 https://jmp2.uk/stvp-KRBC3200032ZM
-#EXTINF:-1 channel-id="KRBC3200030BO" tvg-id="KRBC3200030BO" tvg-chno="134" tvg-name="tvN 삼시세끼 고창편" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200030BO_20260422T013940SQUARE.png",tvN 삼시세끼 고창편
+#EXTINF:-1 channel-id="KRBC3200030BO" tvg-id="KRBC3200030BO" tvg-chno="136" tvg-name="tvN 삼시세끼 고창편" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200030BO_20260422T013940SQUARE.png",tvN 삼시세끼 고창편
 https://jmp2.uk/stvp-KRBC3200030BO
-#EXTINF:-1 channel-id="KRBC32000156C" tvg-id="KRBC32000156C" tvg-chno="135" tvg-name="tvN 삼시세끼 어촌편 5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC32000156C_20261006T042938SQUARE.png",tvN 삼시세끼 어촌편 5
+#EXTINF:-1 channel-id="KRBC32000156C" tvg-id="KRBC32000156C" tvg-chno="137" tvg-name="tvN 삼시세끼 어촌편 5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC32000156C_20261006T042938SQUARE.png",tvN 삼시세끼 어촌편 5
 https://jmp2.uk/stvp-KRBC32000156C
-#EXTINF:-1 channel-id="KRBC3200025QG" tvg-id="KRBC3200025QG" tvg-chno="136" tvg-name="tvN 서진이네 1~2 이어보기" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200025QG_20261006T042943SQUARE.png",tvN 서진이네 1~2 이어보기
+#EXTINF:-1 channel-id="KRBC3200025QG" tvg-id="KRBC3200025QG" tvg-chno="138" tvg-name="tvN 서진이네 1~2 이어보기" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200025QG_20261006T042943SQUARE.png",tvN 서진이네 1~2 이어보기
 https://jmp2.uk/stvp-KRBC3200025QG
-#EXTINF:-1 channel-id="KRBC3200029C4" tvg-id="KRBC3200029C4" tvg-chno="137" tvg-name="tvN 스트리트푸드파이터 1~2 이어보기" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200029C4_20260728T033454SQUARE.png",tvN 스트리트푸드파이터 1~2 이어보기
+#EXTINF:-1 channel-id="KRBC3200029C4" tvg-id="KRBC3200029C4" tvg-chno="139" tvg-name="tvN 스트리트푸드파이터 1~2 이어보기" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200029C4_20260728T033454SQUARE.png",tvN 스트리트푸드파이터 1~2 이어보기
 https://jmp2.uk/stvp-KRBC3200029C4
-#EXTINF:-1 channel-id="KRBC8000128W" tvg-id="KRBC8000128W" tvg-chno="138" tvg-name="tvN 스트릿 레스토랑 파이터" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC8000128W_20260901T054038SQUARE.png",tvN 스트릿 레스토랑 파이터
+#EXTINF:-1 channel-id="KRBC8000128W" tvg-id="KRBC8000128W" tvg-chno="140" tvg-name="tvN 스트릿 레스토랑 파이터" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC8000128W_20260901T054038SQUARE.png",tvN 스트릿 레스토랑 파이터
 https://jmp2.uk/stvp-KRBC8000128W
-#EXTINF:-1 channel-id="KRBC4500003W6" tvg-id="KRBC4500003W6" tvg-chno="139" tvg-name="tvN 슬기로운 의사생활 1~2 이어보기" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4500003W6_20260422T013943SQUARE.png",tvN 슬기로운 의사생활 1~2 이어보기
+#EXTINF:-1 channel-id="KRBC4500003W6" tvg-id="KRBC4500003W6" tvg-chno="141" tvg-name="tvN 슬기로운 의사생활 1~2 이어보기" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4500003W6_20260422T013943SQUARE.png",tvN 슬기로운 의사생활 1~2 이어보기
 https://jmp2.uk/stvp-KRBC4500003W6
-#EXTINF:-1 channel-id="KRBC3200028P2" tvg-id="KRBC3200028P2" tvg-chno="140" tvg-name="tvN 식스센스 : 시티투어 1~2 이어보기" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200028P2_20260901T054041SQUARE.png",tvN 식스센스 : 시티투어 1~2 이어보기
+#EXTINF:-1 channel-id="KRBC3200028P2" tvg-id="KRBC3200028P2" tvg-chno="142" tvg-name="tvN 식스센스 : 시티투어 1~2 이어보기" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200028P2_20260901T054041SQUARE.png",tvN 식스센스 : 시티투어 1~2 이어보기
 https://jmp2.uk/stvp-KRBC3200028P2
-#EXTINF:-1 channel-id="KRBC32000248R" tvg-id="KRBC32000248R" tvg-chno="141" tvg-name="tvN 신서유기 7~8 이어보기" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC32000248R_20260422T013516SQUARE.png",tvN 신서유기 7~8 이어보기
+#EXTINF:-1 channel-id="KRBC32000248R" tvg-id="KRBC32000248R" tvg-chno="143" tvg-name="tvN 신서유기 7~8 이어보기" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC32000248R_20260422T013516SQUARE.png",tvN 신서유기 7~8 이어보기
 https://jmp2.uk/stvp-KRBC32000248R
-#EXTINF:-1 channel-id="KRBC4500001A5" tvg-id="KRBC4500001A5" tvg-chno="142" tvg-name="tvN 어느날 우리집 현관으로 멸망이 들어왔다 4K" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4500001A5_20260728T033458SQUARE.png",tvN 어느날 우리집 현관으로 멸망이 들어왔다 4K
+#EXTINF:-1 channel-id="KRBC4500001A5" tvg-id="KRBC4500001A5" tvg-chno="144" tvg-name="tvN 어느날 우리집 현관으로 멸망이 들어왔다 4K" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4500001A5_20260728T033458SQUARE.png",tvN 어느날 우리집 현관으로 멸망이 들어왔다 4K
 https://jmp2.uk/stvp-KRBC4500001A5
-#EXTINF:-1 channel-id="KR700006WZ" tvg-id="KR700006WZ" tvg-chno="143" tvg-name="tvN 언니네 산지직송 전 시즌 이어보기" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR700006WZ_20261006T042951SQUARE.png",tvN 언니네 산지직송 전 시즌 이어보기
+#EXTINF:-1 channel-id="KR700006WZ" tvg-id="KR700006WZ" tvg-chno="145" tvg-name="tvN 언니네 산지직송 전 시즌 이어보기" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR700006WZ_20261006T042951SQUARE.png",tvN 언니네 산지직송 전 시즌 이어보기
 https://jmp2.uk/stvp-KR700006WZ
-#EXTINF:-1 channel-id="KRBC3200016H1" tvg-id="KRBC3200016H1" tvg-chno="144" tvg-name="tvN 언젠가는 슬기로울 전공의생활" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200016H1_20261006T042954SQUARE.png",tvN 언젠가는 슬기로울 전공의생활
+#EXTINF:-1 channel-id="KRBC3200016H1" tvg-id="KRBC3200016H1" tvg-chno="146" tvg-name="tvN 언젠가는 슬기로울 전공의생활" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200016H1_20261006T042954SQUARE.png",tvN 언젠가는 슬기로울 전공의생활
 https://jmp2.uk/stvp-KRBC3200016H1
-#EXTINF:-1 channel-id="KRBC3200013UR" tvg-id="KRBC3200013UR" tvg-chno="145" tvg-name="tvN 응답하라 전 시즌 모아보기" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200013UR_20261006T042957SQUARE.png",tvN 응답하라 전 시즌 모아보기
+#EXTINF:-1 channel-id="KRBC3200013UR" tvg-id="KRBC3200013UR" tvg-chno="147" tvg-name="tvN 응답하라 전 시즌 모아보기" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200013UR_20261006T042957SQUARE.png",tvN 응답하라 전 시즌 모아보기
 https://jmp2.uk/stvp-KRBC3200013UR
-#EXTINF:-1 channel-id="KRBC3200031KO" tvg-id="KRBC3200031KO" tvg-chno="146" tvg-name="tvN 인급동" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200031KO_20261020T053330SQUARE.png",tvN 인급동
+#EXTINF:-1 channel-id="KRBC3200031KO" tvg-id="KRBC3200031KO" tvg-chno="148" tvg-name="tvN 인급동" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200031KO_20261020T053330SQUARE.png",tvN 인급동
 https://jmp2.uk/stvp-KRBC3200031KO
-#EXTINF:-1 channel-id="KRBC4500002Q4" tvg-id="KRBC4500002Q4" tvg-chno="147" tvg-name="tvN 폭군의 셰프" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4500002Q4_20261020T053336SQUARE.png",tvN 폭군의 셰프
+#EXTINF:-1 channel-id="KRBC4500002Q4" tvg-id="KRBC4500002Q4" tvg-chno="149" tvg-name="tvN 폭군의 셰프" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4500002Q4_20261020T053336SQUARE.png",tvN 폭군의 셰프
 https://jmp2.uk/stvp-KRBC4500002Q4
-#EXTINF:-1 channel-id="KR3700002JT" tvg-id="KR3700002JT" tvg-chno="148" tvg-name="TV조선" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR3700002JT_20260901T053954SQUARE.png",TV조선
+#EXTINF:-1 channel-id="KR3700002JT" tvg-id="KR3700002JT" tvg-chno="150" tvg-name="TV조선" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR3700002JT_20260901T053954SQUARE.png",TV조선
 https://jmp2.uk/stvp-KR3700002JT
-#EXTINF:-1 channel-id="KRBC35000169K" tvg-id="KRBC35000169K" tvg-chno="149" tvg-name="TV조선 나의 해피엔드" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC35000169K_20260422T013902SQUARE.png",TV조선 나의 해피엔드
+#EXTINF:-1 channel-id="KRBC35000169K" tvg-id="KRBC35000169K" tvg-chno="151" tvg-name="TV조선 나의 해피엔드" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC35000169K_20260422T013902SQUARE.png",TV조선 나의 해피엔드
 https://jmp2.uk/stvp-KRBC35000169K
-#EXTINF:-1 channel-id="KRBD2700002IV" tvg-id="KRBD2700002IV" tvg-chno="150" tvg-name="TV조선 미스트롯4" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD2700002IV_20261006T042919SQUARE.png",TV조선 미스트롯4
+#EXTINF:-1 channel-id="KRBD2700002IV" tvg-id="KRBD2700002IV" tvg-chno="152" tvg-name="TV조선 미스트롯4" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD2700002IV_20261006T042919SQUARE.png",TV조선 미스트롯4
 https://jmp2.uk/stvp-KRBD2700002IV
-#EXTINF:-1 channel-id="KRBD27000069Q" tvg-id="KRBD27000069Q" tvg-chno="151" tvg-name="TV조선 사랑의 콜센타" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD27000069Q_20260812T044724SQUARE.png",TV조선 사랑의 콜센타
+#EXTINF:-1 channel-id="KRBD27000069Q" tvg-id="KRBD27000069Q" tvg-chno="153" tvg-name="TV조선 사랑의 콜센타" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD27000069Q_20260812T044724SQUARE.png",TV조선 사랑의 콜센타
 https://jmp2.uk/stvp-KRBD27000069Q
-#EXTINF:-1 channel-id="KRBD2700001QR" tvg-id="KRBD2700001QR" tvg-chno="152" tvg-name="TV조선 생존왕" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD2700001QR_20260812T044619SQUARE.png",TV조선 생존왕
+#EXTINF:-1 channel-id="KRBD2700001QR" tvg-id="KRBD2700001QR" tvg-chno="154" tvg-name="TV조선 생존왕" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD2700001QR_20260812T044619SQUARE.png",TV조선 생존왕
 https://jmp2.uk/stvp-KRBD2700001QR
-#EXTINF:-1 channel-id="KRBC3200011N3" tvg-id="KRBC3200011N3" tvg-chno="153" tvg-name="World Billiards TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200011N3_20260422T013915SQUARE.png",World Billiards TV
+#EXTINF:-1 channel-id="KRBC3200011N3" tvg-id="KRBC3200011N3" tvg-chno="155" tvg-name="World Billiards TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200011N3_20260422T013915SQUARE.png",World Billiards TV
 https://jmp2.uk/stvp-KRBC3200011N3
-#EXTINF:-1 channel-id="KRBD2400001XD" tvg-id="KRBD2400001XD" tvg-chno="154" tvg-name="YTN" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD2400001XD_20260422T013918SQUARE.png",YTN
+#EXTINF:-1 channel-id="KRBD2400001XD" tvg-id="KRBD2400001XD" tvg-chno="156" tvg-name="YTN" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD2400001XD_20260422T013918SQUARE.png",YTN
 https://jmp2.uk/stvp-KRBD2400001XD
-#EXTINF:-1 channel-id="KRBC3500014ZH" tvg-id="KRBC3500014ZH" tvg-chno="155" tvg-name="고독한 미식가" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3500014ZH_20261006T043004SQUARE.png",고독한 미식가
+#EXTINF:-1 channel-id="KRBC3500014ZH" tvg-id="KRBC3500014ZH" tvg-chno="157" tvg-name="고독한 미식가" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3500014ZH_20261006T043004SQUARE.png",고독한 미식가
 https://jmp2.uk/stvp-KRBC3500014ZH
-#EXTINF:-1 channel-id="KR2200008I8" tvg-id="KR2200008I8" tvg-chno="156" tvg-name="곽튜브" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR2200008I8_20260901T054111SQUARE.png",곽튜브
+#EXTINF:-1 channel-id="KR2200008I8" tvg-id="KR2200008I8" tvg-chno="158" tvg-name="곽튜브" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR2200008I8_20260901T054111SQUARE.png",곽튜브
 https://jmp2.uk/stvp-KR2200008I8
-#EXTINF:-1 channel-id="KR2000004DJ" tvg-id="KR2000004DJ" tvg-chno="157" tvg-name="구필수는 없다" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR2000004DJ_20260623T003321SQUARE.png",구필수는 없다
+#EXTINF:-1 channel-id="KR2000004DJ" tvg-id="KR2000004DJ" tvg-chno="159" tvg-name="구필수는 없다" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR2000004DJ_20260623T003321SQUARE.png",구필수는 없다
 https://jmp2.uk/stvp-KR2000004DJ
-#EXTINF:-1 channel-id="KRBD3100006X4" tvg-id="KRBD3100006X4" tvg-chno="158" tvg-name="글로벌 뉴스 by LeadStory" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD3100006X4_20260422T014004SQUARE.png",글로벌 뉴스 by LeadStory
+#EXTINF:-1 channel-id="KRBD3100006X4" tvg-id="KRBD3100006X4" tvg-chno="160" tvg-name="글로벌 뉴스 by LeadStory" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD3100006X4_20260422T014004SQUARE.png",글로벌 뉴스 by LeadStory
 https://jmp2.uk/stvp-KRBD3100006X4
-#EXTINF:-1 channel-id="KR2000010K7" tvg-id="KR2000010K7" tvg-chno="159" tvg-name="나의 해리에게" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR2000010K7_20260623T003332SQUARE.png",나의 해리에게
+#EXTINF:-1 channel-id="KR2000010K7" tvg-id="KR2000010K7" tvg-chno="161" tvg-name="나의 해리에게" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR2000010K7_20260623T003332SQUARE.png",나의 해리에게
 https://jmp2.uk/stvp-KR2000010K7
-#EXTINF:-1 channel-id="KR2000009EC" tvg-id="KR2000009EC" tvg-chno="160" tvg-name="낮에 뜨는 달" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR2000009EC_20260623T003337SQUARE.png",낮에 뜨는 달
+#EXTINF:-1 channel-id="KR2000009EC" tvg-id="KR2000009EC" tvg-chno="162" tvg-name="낮에 뜨는 달" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR2000009EC_20260623T003337SQUARE.png",낮에 뜨는 달
 https://jmp2.uk/stvp-KR2000009EC
-#EXTINF:-1 channel-id="KR2000003T6" tvg-id="KR2000003T6" tvg-chno="161" tvg-name="라이딩 인생" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR2000003T6_20260623T003343SQUARE.png",라이딩 인생
+#EXTINF:-1 channel-id="KR2000003T6" tvg-id="KR2000003T6" tvg-chno="163" tvg-name="라이딩 인생" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR2000003T6_20260623T003343SQUARE.png",라이딩 인생
 https://jmp2.uk/stvp-KR2000003T6
-#EXTINF:-1 channel-id="KRBC3500013VH" tvg-id="KRBC3500013VH" tvg-chno="162" tvg-name="로보카폴리 TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3500013VH_20260422T014017SQUARE.png",로보카폴리 TV
+#EXTINF:-1 channel-id="KRBC3500013VH" tvg-id="KRBC3500013VH" tvg-chno="164" tvg-name="로보카폴리 TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3500013VH_20260422T014017SQUARE.png",로보카폴리 TV
 https://jmp2.uk/stvp-KRBC3500013VH
-#EXTINF:-1 channel-id="KR2000006NC" tvg-id="KR2000006NC" tvg-chno="163" tvg-name="마당이 있는 집" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR2000006NC_20260623T003351SQUARE.png",마당이 있는 집
+#EXTINF:-1 channel-id="KR2000006NC" tvg-id="KR2000006NC" tvg-chno="165" tvg-name="마당이 있는 집" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR2000006NC_20260623T003351SQUARE.png",마당이 있는 집
 https://jmp2.uk/stvp-KR2000006NC
-#EXTINF:-1 channel-id="KRBC3200007D1" tvg-id="KRBC3200007D1" tvg-chno="164" tvg-name="맛있는 녀석들" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200007D1_20260422T014023SQUARE.png",맛있는 녀석들
+#EXTINF:-1 channel-id="KRBC3200007D1" tvg-id="KRBC3200007D1" tvg-chno="166" tvg-name="맛있는 녀석들" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200007D1_20260422T014023SQUARE.png",맛있는 녀석들
 https://jmp2.uk/stvp-KRBC3200007D1
-#EXTINF:-1 channel-id="KR2900001RN" tvg-id="KR2900001RN" tvg-chno="165" tvg-name="바오패밀리" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR2900001RN_20260812T044630SQUARE.png",바오패밀리
+#EXTINF:-1 channel-id="KR2900001RN" tvg-id="KR2900001RN" tvg-chno="167" tvg-name="바오패밀리" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR2900001RN_20260812T044630SQUARE.png",바오패밀리
 https://jmp2.uk/stvp-KR2900001RN
-#EXTINF:-1 channel-id="KRBC3500020AF" tvg-id="KRBC3500020AF" tvg-chno="166" tvg-name="베베핀" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3500020AF_20260722T004048SQUARE.png",베베핀
+#EXTINF:-1 channel-id="KRBC3500020AF" tvg-id="KRBC3500020AF" tvg-chno="168" tvg-name="베베핀" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3500020AF_20260722T004048SQUARE.png",베베핀
 https://jmp2.uk/stvp-KRBC3500020AF
-#EXTINF:-1 channel-id="KR1800002Q7" tvg-id="KR1800002Q7" tvg-chno="167" tvg-name="비보티비" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR1800002Q7_20260812T044634SQUARE.png",비보티비
+#EXTINF:-1 channel-id="KR1800002Q7" tvg-id="KR1800002Q7" tvg-chno="169" tvg-name="비보티비" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR1800002Q7_20260812T044634SQUARE.png",비보티비
 https://jmp2.uk/stvp-KR1800002Q7
-#EXTINF:-1 channel-id="KR140000508" tvg-id="KR140000508" tvg-chno="168" tvg-name="빠니보틀" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR140000508_20261006T043012SQUARE.png",빠니보틀
+#EXTINF:-1 channel-id="KR140000508" tvg-id="KR140000508" tvg-chno="170" tvg-name="빠니보틀" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR140000508_20261006T043012SQUARE.png",빠니보틀
 https://jmp2.uk/stvp-KR140000508
-#EXTINF:-1 channel-id="KR900001U5" tvg-id="KR900001U5" tvg-chno="169" tvg-name="뽀요TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR900001U5_20260812T044642SQUARE.png",뽀요TV
+#EXTINF:-1 channel-id="KR900001U5" tvg-id="KR900001U5" tvg-chno="171" tvg-name="뽀요TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR900001U5_20260812T044642SQUARE.png",뽀요TV
 https://jmp2.uk/stvp-KR900001U5
-#EXTINF:-1 channel-id="KR4100001LW" tvg-id="KR4100001LW" tvg-chno="170" tvg-name="살롱드립" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR4100001LW_20260812T044647SQUARE.png",살롱드립
+#EXTINF:-1 channel-id="KR4100001LW" tvg-id="KR4100001LW" tvg-chno="172" tvg-name="살롱드립" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR4100001LW_20260812T044647SQUARE.png",살롱드립
 https://jmp2.uk/stvp-KR4100001LW
-#EXTINF:-1 channel-id="KR7000044K" tvg-id="KR7000044K" tvg-chno="171" tvg-name="서울경제TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR7000044K_20260422T014043SQUARE.png",서울경제TV
+#EXTINF:-1 channel-id="KR7000044K" tvg-id="KR7000044K" tvg-chno="173" tvg-name="서울경제TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR7000044K_20260422T014043SQUARE.png",서울경제TV
 https://jmp2.uk/stvp-KR7000044K
-#EXTINF:-1 channel-id="KR44000010Y" tvg-id="KR44000010Y" tvg-chno="172" tvg-name="스크린골프존" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR44000010Y_20260422T014046SQUARE.png",스크린골프존
+#EXTINF:-1 channel-id="KR44000010Y" tvg-id="KR44000010Y" tvg-chno="174" tvg-name="스크린골프존" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR44000010Y_20260422T014046SQUARE.png",스크린골프존
 https://jmp2.uk/stvp-KR44000010Y
-#EXTINF:-1 channel-id="KR1200002QR" tvg-id="KR1200002QR" tvg-chno="173" tvg-name="신병 1,2 몰아보기" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR1200002QR_20260805T003646SQUARE.png",신병 1,2 몰아보기
+#EXTINF:-1 channel-id="KR1200002QR" tvg-id="KR1200002QR" tvg-chno="175" tvg-name="신병 1,2 몰아보기" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR1200002QR_20260805T003646SQUARE.png",신병 1,2 몰아보기
 https://jmp2.uk/stvp-KR1200002QR
-#EXTINF:-1 channel-id="KR2000007LI" tvg-id="KR2000007LI" tvg-chno="174" tvg-name="신병 3" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR2000007LI_20260805T003652SQUARE.png",신병 3
+#EXTINF:-1 channel-id="KR2000007LI" tvg-id="KR2000007LI" tvg-chno="176" tvg-name="신병 3" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR2000007LI_20260805T003652SQUARE.png",신병 3
 https://jmp2.uk/stvp-KR2000007LI
-#EXTINF:-1 channel-id="KRBD26000011V" tvg-id="KRBD26000011V" tvg-chno="175" tvg-name="씨네21+" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD26000011V_20260422T014048SQUARE.png",씨네21+
+#EXTINF:-1 channel-id="KRBD26000011V" tvg-id="KRBD26000011V" tvg-chno="177" tvg-name="씨네21+" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD26000011V_20260422T014048SQUARE.png",씨네21+
 https://jmp2.uk/stvp-KRBD26000011V
-#EXTINF:-1 channel-id="KR2000008LX" tvg-id="KR2000008LX" tvg-chno="176" tvg-name="야한 사진관" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR2000008LX_20260623T003409SQUARE.png",야한 사진관
+#EXTINF:-1 channel-id="KR2000008LX" tvg-id="KR2000008LX" tvg-chno="178" tvg-name="야한 사진관" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR2000008LX_20260623T003409SQUARE.png",야한 사진관
 https://jmp2.uk/stvp-KR2000008LX
-#EXTINF:-1 channel-id="KRBD1400001ED" tvg-id="KRBD1400001ED" tvg-chno="177" tvg-name="연합뉴스TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD1400001ED_20260422T014054SQUARE.png",연합뉴스TV
+#EXTINF:-1 channel-id="KRBD1400001ED" tvg-id="KRBD1400001ED" tvg-chno="179" tvg-name="연합뉴스TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD1400001ED_20260422T014054SQUARE.png",연합뉴스TV
 https://jmp2.uk/stvp-KRBD1400001ED
-#EXTINF:-1 channel-id="KR39000030H" tvg-id="KR39000030H" tvg-chno="178" tvg-name="요가소년" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR39000030H_20260812T044653SQUARE.png",요가소년
+#EXTINF:-1 channel-id="KR39000030H" tvg-id="KR39000030H" tvg-chno="180" tvg-name="요가소년" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR39000030H_20260812T044653SQUARE.png",요가소년
 https://jmp2.uk/stvp-KR39000030H
-#EXTINF:-1 channel-id="KRBC3500015BN" tvg-id="KRBC3500015BN" tvg-chno="179" tvg-name="용감한 형사들" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3500015BN_20260422T014057SQUARE.png",용감한 형사들
+#EXTINF:-1 channel-id="KRBC3500015BN" tvg-id="KRBC3500015BN" tvg-chno="181" tvg-name="용감한 형사들" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3500015BN_20260422T014057SQUARE.png",용감한 형사들
 https://jmp2.uk/stvp-KRBC3500015BN
-#EXTINF:-1 channel-id="KRBD2200001QD" tvg-id="KRBD2200001QD" tvg-chno="180" tvg-name="우리의식탁" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD2200001QD_20260422T014100SQUARE.png",우리의식탁
+#EXTINF:-1 channel-id="KRBD2200001QD" tvg-id="KRBD2200001QD" tvg-chno="182" tvg-name="우리의식탁" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD2200001QD_20260422T014100SQUARE.png",우리의식탁
 https://jmp2.uk/stvp-KRBD2200001QD
-#EXTINF:-1 channel-id="KR1400009B8" tvg-id="KR1400009B8" tvg-chno="181" tvg-name="유병재" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR1400009B8_20260610T004239SQUARE.png",유병재
+#EXTINF:-1 channel-id="KR1400009B8" tvg-id="KR1400009B8" tvg-chno="183" tvg-name="유병재" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR1400009B8_20260610T004239SQUARE.png",유병재
 https://jmp2.uk/stvp-KR1400009B8
-#EXTINF:-1 channel-id="KR2000011GA" tvg-id="KR2000011GA" tvg-chno="182" tvg-name="유어 아너" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR2000011GA_20261006T043018SQUARE.png",유어 아너
+#EXTINF:-1 channel-id="KR2000011GA" tvg-id="KR2000011GA" tvg-chno="184" tvg-name="유어 아너" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR2000011GA_20261006T043018SQUARE.png",유어 아너
 https://jmp2.uk/stvp-KR2000011GA
-#EXTINF:-1 channel-id="KR16000047N" tvg-id="KR16000047N" tvg-chno="183" tvg-name="자취남" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR16000047N_20260728T033518SQUARE.png",자취남
+#EXTINF:-1 channel-id="KR16000047N" tvg-id="KR16000047N" tvg-chno="185" tvg-name="자취남" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR16000047N_20260728T033518SQUARE.png",자취남
 https://jmp2.uk/stvp-KR16000047N
-#EXTINF:-1 channel-id="KR3200005TI" tvg-id="KR3200005TI" tvg-chno="184" tvg-name="조조캠핑" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR3200005TI_20261006T043021SQUARE.png",조조캠핑
+#EXTINF:-1 channel-id="KR3200005TI" tvg-id="KR3200005TI" tvg-chno="186" tvg-name="조조캠핑" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR3200005TI_20261006T043021SQUARE.png",조조캠핑
 https://jmp2.uk/stvp-KR3200005TI
-#EXTINF:-1 channel-id="KR400049VH" tvg-id="KR400049VH" tvg-chno="185" tvg-name="지구마불 세계여행" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR400049VH_20261006T043025SQUARE.png",지구마불 세계여행
+#EXTINF:-1 channel-id="KR400049VH" tvg-id="KR400049VH" tvg-chno="187" tvg-name="지구마불 세계여행" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR400049VH_20261006T043025SQUARE.png",지구마불 세계여행
 https://jmp2.uk/stvp-KR400049VH
-#EXTINF:-1 channel-id="KR5000002QW" tvg-id="KR5000002QW" tvg-chno="186" tvg-name="쯔양" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR5000002QW_20261006T043032SQUARE.png",쯔양
+#EXTINF:-1 channel-id="KR5000002QW" tvg-id="KR5000002QW" tvg-chno="188" tvg-name="쯔양" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR5000002QW_20261006T043032SQUARE.png",쯔양
 https://jmp2.uk/stvp-KR5000002QW
-#EXTINF:-1 channel-id="KRBC4100001LY" tvg-id="KRBC4100001LY" tvg-chno="187" tvg-name="채널A 나만 믿고 따라와 도시어부" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4100001LY_20261006T043043SQUARE.png",채널A 나만 믿고 따라와 도시어부
+#EXTINF:-1 channel-id="KRBC4100001LY" tvg-id="KRBC4100001LY" tvg-chno="189" tvg-name="채널A 나만 믿고 따라와 도시어부" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4100001LY_20261006T043043SQUARE.png",채널A 나만 믿고 따라와 도시어부
 https://jmp2.uk/stvp-KRBC4100001LY
-#EXTINF:-1 channel-id="KRBC4100005N5" tvg-id="KRBC4100005N5" tvg-chno="188" tvg-name="채널A 이제 만나러 갑니다" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4100005N5_20260422T014105SQUARE.png",채널A 이제 만나러 갑니다
+#EXTINF:-1 channel-id="KRBC4100005N5" tvg-id="KRBC4100005N5" tvg-chno="190" tvg-name="채널A 이제 만나러 갑니다" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4100005N5_20260422T014105SQUARE.png",채널A 이제 만나러 갑니다
 https://jmp2.uk/stvp-KRBC4100005N5
-#EXTINF:-1 channel-id="KRBC3200018FU" tvg-id="KRBC3200018FU" tvg-chno="189" tvg-name="채널십오야" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200018FU_20261020T053333SQUARE.png",채널십오야
+#EXTINF:-1 channel-id="KRBC3200018FU" tvg-id="KRBC3200018FU" tvg-chno="191" tvg-name="채널십오야" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200018FU_20261020T053333SQUARE.png",채널십오야
 https://jmp2.uk/stvp-KRBC3200018FU
-#EXTINF:-1 channel-id="KRBB5000364M" tvg-id="KRBB5000364M" tvg-chno="190" tvg-name="초록뱀미디어 K-STAR 골프" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB5000364M_20260422T014108SQUARE.png",초록뱀미디어 K-STAR 골프
+#EXTINF:-1 channel-id="KRBB5000364M" tvg-id="KRBB5000364M" tvg-chno="192" tvg-name="초록뱀미디어 K-STAR 골프" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB5000364M_20260422T014108SQUARE.png",초록뱀미디어 K-STAR 골프
 https://jmp2.uk/stvp-KRBB5000364M
-#EXTINF:-1 channel-id="KR3200003RR" tvg-id="KR3200003RR" tvg-chno="191" tvg-name="코난 오브라이언 쇼" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR3200003RR_20260422T014111SQUARE.png",코난 오브라이언 쇼
+#EXTINF:-1 channel-id="KR3200003RR" tvg-id="KR3200003RR" tvg-chno="193" tvg-name="코난 오브라이언 쇼" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR3200003RR_20260422T014111SQUARE.png",코난 오브라이언 쇼
 https://jmp2.uk/stvp-KR3200003RR
-#EXTINF:-1 channel-id="KRBB500035VF" tvg-id="KRBB500035VF" tvg-chno="192" tvg-name="코코비TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB500035VF_20260422T014114SQUARE.png",코코비TV
+#EXTINF:-1 channel-id="KRBB500035VF" tvg-id="KRBB500035VF" tvg-chno="194" tvg-name="코코비TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB500035VF_20260422T014114SQUARE.png",코코비TV
 https://jmp2.uk/stvp-KRBB500035VF
-#EXTINF:-1 channel-id="KRBC32000200B" tvg-id="KRBC32000200B" tvg-chno="193" tvg-name="투니버스 명탐정 코난 (자막)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC32000200B_20260422T014116SQUARE.png",투니버스 명탐정 코난 (자막)
+#EXTINF:-1 channel-id="KRBC32000200B" tvg-id="KRBC32000200B" tvg-chno="195" tvg-name="투니버스 명탐정 코난 (자막)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC32000200B_20260422T014116SQUARE.png",투니버스 명탐정 코난 (자막)
 https://jmp2.uk/stvp-KRBC32000200B
-#EXTINF:-1 channel-id="KR10000017U" tvg-id="KR10000017U" tvg-chno="194" tvg-name="투니버스 짱구는 못말려" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR10000017U_20260422T014119SQUARE.png",투니버스 짱구는 못말려
+#EXTINF:-1 channel-id="KR10000017U" tvg-id="KR10000017U" tvg-chno="196" tvg-name="투니버스 짱구는 못말려" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR10000017U_20260422T014119SQUARE.png",투니버스 짱구는 못말려
 https://jmp2.uk/stvp-KR10000017U
-#EXTINF:-1 channel-id="KRBC3200017JQ" tvg-id="KRBC3200017JQ" tvg-chno="195" tvg-name="투니버스 흔한남매의 안흔한일기" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200017JQ_20260422T014121SQUARE.png",투니버스 흔한남매의 안흔한일기
+#EXTINF:-1 channel-id="KRBC3200017JQ" tvg-id="KRBC3200017JQ" tvg-chno="197" tvg-name="투니버스 흔한남매의 안흔한일기" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200017JQ_20260422T014121SQUARE.png",투니버스 흔한남매의 안흔한일기
 https://jmp2.uk/stvp-KRBC3200017JQ
-#EXTINF:-1 channel-id="KR480000234" tvg-id="KR480000234" tvg-chno="196" tvg-name="할명수" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR480000234_20260422T014124SQUARE.png",할명수
+#EXTINF:-1 channel-id="KR480000234" tvg-id="KR480000234" tvg-chno="198" tvg-name="할명수" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR480000234_20260422T014124SQUARE.png",할명수
 https://jmp2.uk/stvp-KR480000234
-#EXTINF:-1 channel-id="KR200000503" tvg-id="KR200000503" tvg-chno="197" tvg-name="행복배틀" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR200000503_20260623T003414SQUARE.png",행복배틀
+#EXTINF:-1 channel-id="KR200000503" tvg-id="KR200000503" tvg-chno="199" tvg-name="행복배틀" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR200000503_20260623T003414SQUARE.png",행복배틀
 https://jmp2.uk/stvp-KR200000503
-#EXTINF:-1 channel-id="KRAH1801500A" tvg-id="KRAH1801500A" tvg-chno="198" tvg-name="현대홈쇼핑" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRAH1801500A_20260422T013224SQUARE.png",현대홈쇼핑
+#EXTINF:-1 channel-id="KRAH1801500A" tvg-id="KRAH1801500A" tvg-chno="200" tvg-name="현대홈쇼핑" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRAH1801500A_20260422T013224SQUARE.png",현대홈쇼핑
 https://jmp2.uk/stvp-KRAH1801500A
-#EXTINF:-1 channel-id="KRAH4602000A" tvg-id="KRAH4602000A" tvg-chno="199" tvg-name="현대홈쇼핑+Shop" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRAH4602000A_20260422T013227SQUARE.png",현대홈쇼핑+Shop
+#EXTINF:-1 channel-id="KRAH4602000A" tvg-id="KRAH4602000A" tvg-chno="201" tvg-name="현대홈쇼핑+Shop" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRAH4602000A_20260422T013227SQUARE.png",현대홈쇼핑+Shop
 https://jmp2.uk/stvp-KRAH4602000A
-#EXTINF:-1 channel-id="KR260000274" tvg-id="KR260000274" tvg-chno="200" tvg-name="힙으뜸" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR260000274_20260812T044706SQUARE.png",힙으뜸
+#EXTINF:-1 channel-id="KR260000274" tvg-id="KR260000274" tvg-chno="202" tvg-name="힙으뜸" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR260000274_20260812T044706SQUARE.png",힙으뜸
 https://jmp2.uk/stvp-KR260000274
