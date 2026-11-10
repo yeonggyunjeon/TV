@@ -5,9 +5,9 @@ http://koreatv.dothome.co.kr/kbs1.php
 http://koreatv.dothome.co.kr/kbs2.php
 #EXTINF:-1 tvg-id="KNN TV(SBS부산).kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/KNN_logo.svg/500px-KNN_logo.svg.png",3.KNN TV(SBS부산)
 https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8
-#EXTINF:-1 tvg-id="TBC TV(SBS대구).kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/KNN_logo.svg/500px-KNN_logo.svg.png",4.TBC TV(SBS대구)
+#EXTINF:-1 tvg-id="TBC TV(SBS대구).kr" tvg-logo="https://images.simplywall.st/asset/logos/www.tbc.co.kr?size=500",4.TBC TV(SBS대구)
 http://203.251.91.227:9999/hls/otv-eorn-xlqltl-dbekftks-ext-002-334/index.m3u8
-#EXTINF:-1 tvg-id="JIBS TV(SBS제주).kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/KNN_logo.svg/500px-KNN_logo.svg.png",5.JIBS TV(SBS제주)
+#EXTINF:-1 tvg-id="JIBS TV(SBS제주).kr" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/JIBS%20제주방송.svg",5.JIBS TV(SBS제주)
 http://123.140.197.22/stream/1/play.m3u8
 #EXTINF:-1 tvg-id="MBCTV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Munhwa_Broadcasting_Corporation.svg/500px-Munhwa_Broadcasting_Corporation.svg.png",6.MBC TV
 http://koreatv.dothome.co.kr/mbc.php
