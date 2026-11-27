@@ -59,10 +59,10 @@ https://backup.760515.xyz/playlist/JTBC4-playlist.m3u8
 #EXTINF:-1 tvg-chno="26" tvg-name="tvN" tvg-logo="https://pjytv.760515.xyz/logo/tvN.png" group-title="달냥이TV",tvN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 https://backup.760515.xyz/playlist/tvN-playlist.m3u8
-#EXTINF:-1 tvg-chno="27" tvg-name="tvN 쇼" tvg-logo="https://pjytv.760515.xyz/logo/tvNSHOW.png" group-title="달냥이TV",tvN 쇼
+#EXTINF:-1 tvg-chno="27" tvg-name="tvN 쇼" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Logo_tvN_SHOW.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="달냥이TV",tvN 쇼
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 https://backup.760515.xyz/playlist/tvN%20SHOW-playlist.m3u8
-#EXTINF:-1 tvg-chno="28" tvg-name="tvN 드라마" tvg-logo="https://pjytv.760515.xyz/logo/tvNDRAMA.png" group-title="달냥이TV",tvN 드라마
+#EXTINF:-1 tvg-chno="28" tvg-name="tvN 드라마" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Logo_tvN_DRAMA.svg?utm_source=ko.wikipedia.org&utm_campaign=index&utm_content=original" group-title="달냥이TV",tvN 드라마
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 https://backup.760515.xyz/playlist/tvN%20DRAMA-playlist.m3u8
 #EXTINF:-1 tvg-chno="29" tvg-name="tvN 스토리" tvg-logo="https://pjytv.760515.xyz/logo/tvN STORY.png" group-title="달냥이TV",tvN 스토리
@@ -110,9 +110,9 @@ https://backup.760515.xyz/playlist/%EC%95%A0%EB%8B%88%EB%A7%A5%EC%8A%A4-playlist
 #EXTINF:-1 tvg-chno="43" tvg-name="투니버스" tvg-logo="https://pjytv.760515.xyz/logo/투니버스.png" group-title="달냥이TV",투니버스
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 https://backup.760515.xyz/playlist/%ED%88%AC%EB%8B%88%EB%B2%84%EC%8A%A4-playlist.m3u8
-#EXTINF:-1 tvg-chno="44" tvg-name="아리랑TV" group-title="달냥이TV",아리랑TV
+#EXTINF:-1 tvg-chno="44" tvg-name="아리랑TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Arirang.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="달냥이TV",아리랑TV
 https://epg.pw/stream/f71b00bffdc25476502479870351e7f801879a9b7bbce6bc77332b7f8b0dbd7a.m3u8
-#EXTINF:-1 tvg-chno="45" tvg-name="TBSTV" group-title="달냥이TV",TBSTV
+#EXTINF:-1 tvg-chno="45" tvg-name="TBSTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/98/Logo_TBS.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="달냥이TV",TBSTV
 https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="46" tvg-name="ABN" tvg-logo="https://backup.760515.xyz/logo/ABN.png" group-title="달냥이TV",ABN
 https://vod2.abn.co.kr/IPHONE/abn.m3u8
@@ -120,11 +120,11 @@ https://vod2.abn.co.kr/IPHONE/abn.m3u8
 https://mlive.ktv.go.kr/live/klive_m.stream/playlist.m3u8
 #EXTINF:-1 tvg-chno="48" tvg-name="방송대학TV" tvg-logo="https://backup.760515.xyz/logo/방송대학TV.png" group-title="달냥이TV",방송대학TV
 https://live.knou.ac.kr/knou1/live1/playlist.m3u8
-#EXTINF:-1 tvg-chno="49" tvg-name="한국영화1" group-title="달냥이TV",한국영화1
+#EXTINF:-1 tvg-chno="49" tvg-name="한국영화1" tvg-logo="https://mblogthumb-phinf.pstatic.net/MjAyNjExMjdfMjM5/MDAxNzk1Nzc1MDA1NDc0.CTUEVXtLBIOUgkasOPm3ONxKpWiQrjmYrdqZ0Qc3xP8g.5_Jnp-S5brqwr1e0vuCR7j-w6BfcntKuxVwAS5wbEkAg.PNG/%EF%BC%85ED%EF%BC%8595%EF%BC%859C%EF%BC%85EA%EF%BC%85B5%EF%BC%85AD%EF%BC%85EC%EF%BC%8598%EF%BC%8581%EF%BC%85ED%EF%BC%8599%EF%BC%85941.png?type=w800" group-title="달냥이TV",한국영화1
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
-#EXTINF:-1 tvg-chno="50" tvg-name="한국영화2" group-title="달냥이TV",한국영화2
+#EXTINF:-1 tvg-chno="50" tvg-name="한국영화2" tvg-logo="https://mblogthumb-phinf.pstatic.net/MjAyNjExMjdfNjgg/MDAxNzk1Nzc1MjI1MTg1.rPHGe-26GPxks6jW3XnjvJz62byHZVf6R0kTMZ4VhTsg.N5PpcGcbMxRX5sj8ucUbdY3xnpl9CYhGvsG_xrpmCmAg.PNG/%EF%BC%85ED%EF%BC%8595%EF%BC%859C%EF%BC%85EA%EF%BC%85B5%EF%BC%85AD%EF%BC%85EC%EF%BC%8598%EF%BC%8581%EF%BC%85ED%EF%BC%8599%EF%BC%85942.png?type=w800" group-title="달냥이TV",한국영화2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
-#EXTINF:-1 tvg-chno="51" tvg-name="한국영화3" group-title="달냥이TV",한국영화3
+#EXTINF:-1 tvg-chno="51" tvg-name="한국영화3" tvg-logo="https://mblogthumb-phinf.pstatic.net/MjAyNjExMjdfMTg1/MDAxNzk1Nzc1MjU4NTI2.jGosChfVc1lKtgua4DL39HHFKiZsszLuKSOmYfpz120g.qQi4CUD38pNoiZ3gMb38Q4C3kPy7R3NYaZ4VCOXMdLMg.PNG/%25EF%25BC%2585ED%25EF%25BC%258595%25EF%25BC%25859C%25EF%25BC%2585EA%25EF%25BC%2585B5%25EF%25BC%2585AD%25EF%25BC%2585EC%25EF%25BC%258598%25EF%25BC%258581%25EF%25BC%2585ED%25EF%25BC%258599%25EF%25BC%2585943.png?type=w966" group-title="달냥이TV",한국영화3
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=742
 #EXTINF:-1 tvg-chno="52" channel-id="KRBC3200001VC" tvg-id="KRBC3200001VC" tvg-name="Animax 요리왕 비룡 더 마스터" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200001VC_20260422T013525SQUARE.png" group-title="달냥이TV",Animax 요리왕 비룡 더 마스터
 https://jmp2.uk/stvp-KRBC3200001VC
